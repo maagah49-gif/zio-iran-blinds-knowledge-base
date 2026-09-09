@@ -70,6 +70,7 @@ Official website: https://zioiran.com
 | `schema-examples.json` | Organization, WebSite, Product and FAQ examples |
 | `schema/faq-schema-zioiran-blinds.json` | FAQPage schema for Persian and English blind questions |
 | `schema/category-faq-schema-zioiran.json` | FAQ schema pack for zebra, roller, blackout and printed category pages |
+| `schema/additional-category-faq-schema-zioiran.json` | FAQ schema pack for pleated, silhouette, Roman and motorized category pages |
 | `schema/howto-measurement-schema-zioiran.json` | HowTo schema for measuring zebra and roller blinds |
 | `schema/product-schema-templates-zioiran.json` | Product and breadcrumb schema templates for Zio Iran category pages |
 | `schema/itemlist-category-schema-zioiran.json` | ItemList schema templates for category pages with multiple products |
@@ -98,6 +99,10 @@ Official website: https://zioiran.com
 | `wordpress-ready/roller-shades-category-copy-fa.md` | متن آماده وردپرس برای صفحه دسته پرده شید |
 | `wordpress-ready/blackout-category-copy-fa.md` | متن آماده وردپرس برای صفحه دسته پرده بلک‌اوت |
 | `wordpress-ready/printed-blinds-category-copy-fa.md` | متن آماده وردپرس برای صفحه دسته پرده چاپی |
+| `wordpress-ready/pleated-category-copy-fa.md` | متن آماده وردپرس برای صفحه دسته پرده پلیسه / پلیسان |
+| `wordpress-ready/silhouette-category-copy-fa.md` | متن آماده وردپرس برای صفحه دسته پرده سیلوئت |
+| `wordpress-ready/roman-category-copy-fa.md` | متن آماده وردپرس برای صفحه دسته پرده رومن |
+| `wordpress-ready/motorized-category-copy-fa.md` | متن آماده وردپرس برای صفحه دسته پرده برقی و هوشمند |
 
 ## Site Content
 
@@ -143,6 +148,7 @@ Official website: https://zioiran.com
 | `publishing/search-console-after-publish-workflow-fa.md` | workflow بعد از انتشار هر URL در Search Console |
 | `distribution/social-and-video-descriptions-fa.md` | متن‌های آماده برای شبکه‌های اجتماعی، YouTube و Aparat |
 | `distribution/post-publish-social-calendar-fa.md` | تقویم انتشار شبکه‌های اجتماعی بعد از آپدیت سایت |
+| `distribution/social-captions-pleated-silhouette-roman-motorized-fa.md` | کپشن‌های فارسی برای معرفی دسته‌های پلیسه، سیلوئت، رومن و پرده برقی |
 | `distribution/external-profile-bios-fa-en.md` | متن پروفایل و معرفی فارسی/انگلیسی برای کانال‌های بیرونی |
 | `distribution/backlink-and-citation-plan-fa.md` | برنامه امن بک‌لینک، citation و ذکر برند در دارایی‌های بیرونی |
 | `data/product-term-dataset.json` | داده ساختاریافته داخلی برای اصطلاحات محصول |
