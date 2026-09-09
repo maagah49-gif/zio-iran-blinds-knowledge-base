@@ -1,0 +1,97 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://zioiran.com/en/zebra-blinds/#faq",
+      "name": "Zio Iran Zebra Blinds FAQ",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Are zebra blinds the same as roller shades?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Both use a rolling mechanism, but zebra blinds use alternating sheer and opaque bands, while roller shades usually use a single continuous fabric panel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do zebra blinds block light completely?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Standard zebra blinds soften and control light, but they usually do not create full blackout. For strong room darkening, blackout fabric is usually a better option."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://zioiran.com/en/roller-shades/#faq",
+      "name": "Zio Iran Roller Shades FAQ",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Are roller shades good for modern interiors?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Roller shades are often used in modern interiors because their form is simple, clean and visually quiet."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can roller shades be printed?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Many roller shade fabrics can be used for custom printing, depending on fabric type, print method and artwork quality."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://zioiran.com/en/blackout-blinds/#faq",
+      "name": "Zio Iran Blackout Blinds FAQ",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Do blackout blinds make a room completely dark?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "They can significantly reduce light, but complete darkness also depends on installation, edge gaps and the amount of window coverage."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can blackout blinds be motorized?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Blackout fabrics are often used with motorized roller systems, especially for bedrooms, meeting rooms and media spaces."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://zioiran.com/en/printed-blinds/#faq",
+      "name": "Zio Iran Printed Blinds FAQ",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Can any image be used for printed blinds?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Not always. The image needs enough resolution and the right proportions for the final blind size."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What matters most before ordering printed blinds?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Accurate measurement, correct artwork size and a suitable fabric are the most important factors."
+          }
+        }
+      ]
+    }
+  ]
+}
