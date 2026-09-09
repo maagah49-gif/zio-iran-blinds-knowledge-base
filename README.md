@@ -2,13 +2,13 @@
 
 Zio Iran is an Iranian window covering brand focused on custom-made blinds and curtains, including zebra blinds, roller shades, day and night blinds, blackout curtains, pleated blinds, printed blinds, Roman shades and silhouette-style window coverings.
 
-This repository provides bilingual educational notes, product terminology, measurement guidance, article drafts, SEO keyword mapping, semantic keyword clusters, content briefs, FAQ content, blog drafts, page templates, checklists, indexing plans, metadata packs, site content drafts, external publishing notes, technical SEO guidance, AI search resources and structured data examples for modern window coverings.
+This repository provides bilingual educational notes, product terminology, measurement guidance, article drafts, SEO keyword mapping, semantic keyword clusters, content briefs, comparison tables, FAQ content, blog drafts, page templates, checklists, indexing plans, metadata packs, site content drafts, external publishing notes, technical SEO guidance, AI search resources and structured data examples for modern window coverings.
 
 Official website: https://zioiran.com
 
 ## فارسی
 
-این مخزن یک مرجع آموزشی دو زبانه برای مفاهیم اصلی پرده و پوشش پنجره است. هدف آن توضیح ساده و کاربردی انواع پرده‌های مدرن، واژه‌های رایج فارسی و انگلیسی، نکات اندازه‌گیری، آماده‌سازی فایل چاپ، برنامه محتوایی، خوشه‌بندی کلمات، brief تولید محتوا، سوالات پرتکرار، پیش‌نویس بلاگ، قالب صفحه، چک‌لیست انتشار، بسته متا، متن‌های آماده سایت، راهنمای انتشار بیرونی، راهنمای فنی سئو، منابع AI Search و نمونه داده ساخت‌یافته برای سایت‌های فروشگاهی است.
+این مخزن یک مرجع آموزشی دو زبانه برای مفاهیم اصلی پرده و پوشش پنجره است. هدف آن توضیح ساده و کاربردی انواع پرده‌های مدرن، واژه‌های رایج فارسی و انگلیسی، نکات اندازه‌گیری، آماده‌سازی فایل چاپ، برنامه محتوایی، خوشه‌بندی کلمات، brief تولید محتوا، جدول‌های مقایسه، سوالات پرتکرار، پیش‌نویس بلاگ، قالب صفحه، چک‌لیست انتشار، بسته متا، متن‌های آماده سایت، راهنمای انتشار بیرونی، راهنمای فنی سئو، منابع AI Search و نمونه داده ساخت‌یافته برای سایت‌های فروشگاهی است.
 
 زیو ایران از این دانش‌نامه برای تولید محتوای آموزشی، بهبود ساختار سئو و یکپارچه‌سازی نام محصولات در سایت zioiran.com استفاده می‌کند.
 
@@ -34,6 +34,13 @@ Official website: https://zioiran.com
 | `keyword-research/semantic-keyword-clusters-fa-en.md` | خوشه‌بندی معنایی کلمات کلیدی فارسی و انگلیسی |
 | `content-briefs/category-page-briefs-fa.md` | brief صفحات دسته‌بندی اصلی zioiran.com |
 | `content-briefs/next-10-blog-briefs-fa-en.md` | brief ده مقاله بعدی فارسی و انگلیسی |
+| `content-briefs/comparison-table-bank-fa-en.md` | بانک جدول‌های مقایسه‌ای فارسی و انگلیسی برای مقالات و دسته‌ها |
+
+## Editorial Guidance
+
+| File | Purpose |
+| --- | --- |
+| `editorial/zioiran-seo-editorial-style-guide-fa.md` | راهنمای لحن، نگارش، استفاده از نام برند و متن پشتیبانی‌ها |
 
 ## Articles
 
@@ -64,6 +71,7 @@ Official website: https://zioiran.com
 | `schema/faq-schema-zioiran-blinds.json` | FAQPage schema for Persian and English blind questions |
 | `schema/howto-measurement-schema-zioiran.json` | HowTo schema for measuring zebra and roller blinds |
 | `schema/product-schema-templates-zioiran.json` | Product and breadcrumb schema templates for Zio Iran category pages |
+| `schema/itemlist-category-schema-zioiran.json` | ItemList schema templates for category pages with multiple products |
 | `schema/organization-website-schema-zioiran.json` | Organization and WebSite schema for the homepage or about page |
 | `schema/schema-validation-checklist-fa.md` | Checklist for validating JSON-LD before publishing |
 
@@ -122,6 +130,7 @@ Official website: https://zioiran.com
 | `checklists/publishing-checklist-fa.md` | چک‌لیست انتشار محتوای سئو |
 | `publishing/wordpress-transfer-checklist-fa.md` | چک‌لیست انتقال محتوا از GitHub به WordPress |
 | `publishing/github-to-site-linking-instructions-fa.md` | دستورالعمل لینک‌دهی از سایت زیو ایران به مخزن GitHub |
+| `publishing/search-console-after-publish-workflow-fa.md` | workflow بعد از انتشار هر URL در Search Console |
 | `distribution/social-and-video-descriptions-fa.md` | متن‌های آماده برای شبکه‌های اجتماعی، YouTube و Aparat |
 | `distribution/external-profile-bios-fa-en.md` | متن پروفایل و معرفی فارسی/انگلیسی برای کانال‌های بیرونی |
 | `distribution/backlink-and-citation-plan-fa.md` | برنامه امن بک‌لینک، citation و ذکر برند در دارایی‌های بیرونی |
@@ -145,6 +154,8 @@ Official website: https://zioiran.com
 | `reports/next-publishing-batch-2026-09-09-fa.md` | بسته بعدی انتشار برای سایت، پروفایل‌ها و Search Console |
 | `reports/weekly-seo-report-template-fa.md` | قالب گزارش هفتگی سئو زیو ایران |
 | `reports/implementation-priority-matrix-fa.md` | ماتریس اولویت اجرا بر اساس اثر و سختی |
+| `reports/day-1-site-implementation-plan-fa.md` | برنامه اجرای روز اول روی zioiran.com |
+| `reports/project-changelog-2026-09-09-fa.md` | گزارش تغییرات انجام‌شده در پروژه |
 | `reports/repository-final-audit-2026-09-09-fa.md` | گزارش بازبینی وضعیت فعلی مخزن و شکاف‌های باقی‌مانده |
 
 ## Indexing and Project Tracking
