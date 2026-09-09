@@ -64,12 +64,15 @@ Official website: https://zioiran.com
 | `blog-drafts/zebra-shade-comparison-post-fa.md` | Persian blog draft comparing zebra blinds and roller shades |
 | `blog-drafts/blackout-blinds-post-fa.md` | Persian blog draft about blackout blinds and light control |
 | `blog-drafts/printed-blinds-post-fa.md` | Persian blog draft about printed blinds and print file preparation |
+| `blog-drafts/pleated-blinds-post-fa.md` | Persian blog draft about pleated blinds and suitable windows |
+| `blog-drafts/motorized-blinds-post-fa.md` | Persian blog draft about motorized blinds, motors and smart-home use |
 
 ## Site Content
 
 | File | Purpose |
 | --- | --- |
 | `site-content/category-intros-fa.md` | متن معرفی آماده برای دسته‌بندی‌های اصلی zioiran.com |
+| `site-content/category-intros-en.md` | English category intro drafts for bilingual or external pages |
 | `site-content/internal-link-anchor-texts-fa.md` | Anchor text های پیشنهادی برای لینک‌دهی داخلی سایت |
 
 ## Templates and Checklists
@@ -79,6 +82,7 @@ Official website: https://zioiran.com
 | `templates/product-category-template-fa.md` | قالب صفحه دسته‌بندی محصول برای zioiran.com |
 | `templates/blog-post-template-fa.md` | قالب مقاله آموزشی برای بلاگ زیو ایران |
 | `checklists/publishing-checklist-fa.md` | چک‌لیست انتشار محتوای سئو |
+| `publishing/wordpress-transfer-checklist-fa.md` | چک‌لیست انتقال محتوا از GitHub به WordPress |
 | `distribution/social-and-video-descriptions-fa.md` | متن‌های آماده برای شبکه‌های اجتماعی، YouTube و Aparat |
 | `distribution/external-profile-bios-fa-en.md` | متن پروفایل و معرفی فارسی/انگلیسی برای کانال‌های بیرونی |
 | `data/product-term-dataset.json` | داده ساختاریافته داخلی برای اصطلاحات محصول |
@@ -103,9 +107,11 @@ Official website: https://zioiran.com
 | --- | --- |
 | `index/repository-url-index.md` | فهرست URLهای اصلی مخزن برای لینک‌دهی و پیگیری |
 | `indexing/search-indexing-plan-fa.md` | برنامه ایندکس و دیده شدن دانش‌نامه زیو ایران |
+| `indexing/search-console-url-submission-list-fa.md` | فهرست URLهای پیشنهادی برای ثبت در Google Search Console |
 | `mapping/site-to-repository-map-fa.md` | نقشه اتصال صفحات zioiran.com به فایل‌های GitHub |
 | `reports/project-status-2026-09-09-fa.md` | گزارش وضعیت پروژه دانش‌نامه زیو ایران |
 | `reports/publishing-progress-log-2026-09-09-fa.md` | گزارش پیشرفت انتشار و کارهای باقی‌مانده |
+| `reports/seo-assets-inventory-2026-09-09-fa.md` | فهرست دارایی‌های سئوی آماده‌شده و اولویت استفاده |
 
 ## Core Product Terms
 
