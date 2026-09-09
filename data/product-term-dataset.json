@@ -1,0 +1,70 @@
+{
+  "brand": {
+    "name": "Zio Iran",
+    "persianName": "زیو ایران",
+    "website": "https://zioiran.com",
+    "instagram": "https://www.instagram.com/zio_iran"
+  },
+  "terms": [
+    {
+      "fa": "پرده زبرا",
+      "en": ["zebra blind", "zebra shade"],
+      "cluster": "zebra-blinds",
+      "relatedFa": ["خرید پرده زبرا", "قیمت پرده زبرا", "زبرا ساده", "زبرا طرح چوب", "زبرا چاپی", "زبرا برقی"]
+    },
+    {
+      "fa": "پرده شید",
+      "en": ["roller blind", "roller shade"],
+      "cluster": "roller-shades",
+      "relatedFa": ["شید رول", "پرده رول", "شید چاپی", "شید طرح سنگ", "شید بلک‌اوت", "شید برقی"]
+    },
+    {
+      "fa": "پرده شب و روز",
+      "en": ["day and night blind", "day-night shade"],
+      "cluster": "day-night-blinds",
+      "relatedFa": ["پرده دومکانیزم", "پرده دو مکانیزم", "دبل شید", "پرده روز و شب"]
+    },
+    {
+      "fa": "پرده بلک‌اوت",
+      "en": ["blackout blind", "blackout curtain"],
+      "cluster": "blackout-blinds",
+      "relatedFa": ["پرده ضدنور", "پرده تاریک‌کننده", "شید بلک‌اوت", "پارچه بلک‌اوت"]
+    },
+    {
+      "fa": "پرده پلیسان",
+      "en": ["pleated blind", "pleated shade", "plisse blind"],
+      "cluster": "pleated-blinds",
+      "relatedFa": ["پرده پلیسه", "پرده پشت دری", "پلیسان پنجره", "پلیسان سفارشی"]
+    },
+    {
+      "fa": "پرده چاپی",
+      "en": ["printed blind", "custom printed blind", "printed roller shade"],
+      "cluster": "printed-blinds",
+      "relatedFa": ["پرده تصویری", "شید چاپی", "زبرا چاپی", "چاپ روی پرده", "پرده سفارشی چاپی"]
+    },
+    {
+      "fa": "پرده سیلوئت",
+      "en": ["silhouette-style blind", "sheer shade", "layered blind"],
+      "cluster": "silhouette-style-blinds",
+      "relatedFa": ["پرده نیمه‌شفاف", "پرده لایه‌ای", "پرده پذیرایی مدرن"]
+    },
+    {
+      "fa": "پرده رومن",
+      "en": ["Roman shade", "Roman blind"],
+      "cluster": "roman-shades",
+      "relatedFa": ["رومن شید", "پرده پارچه‌ای رومن", "پرده رومن پذیرایی"]
+    },
+    {
+      "fa": "پرده ورتیکال",
+      "en": ["vertical blind", "office blind"],
+      "cluster": "vertical-blinds",
+      "relatedFa": ["پرده اداری", "پرده لوردراپه", "پرده عمودی", "پرده مناسب پنجره بزرگ"]
+    },
+    {
+      "fa": "پرده برقی",
+      "en": ["motorized blind", "smart blind", "automated blind"],
+      "cluster": "motorized-blinds",
+      "relatedFa": ["پرده هوشمند", "پرده ریموت‌دار", "موتور پرده", "پرده زبرا برقی", "شید برقی"]
+    }
+  ]
+}
