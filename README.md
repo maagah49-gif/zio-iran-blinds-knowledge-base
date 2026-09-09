@@ -2,13 +2,13 @@
 
 Zio Iran is an Iranian window covering brand focused on custom-made blinds and curtains, including zebra blinds, roller shades, day and night blinds, blackout curtains, pleated blinds, printed blinds, Roman shades and silhouette-style window coverings.
 
-This repository provides bilingual educational notes, product terminology, measurement guidance, article drafts, SEO keyword mapping and structured data examples for modern window coverings.
+This repository provides bilingual educational notes, product terminology, measurement guidance, article drafts, SEO keyword mapping, FAQ content and structured data examples for modern window coverings.
 
 Official website: https://zioiran.com
 
 ## فارسی
 
-این مخزن یک مرجع آموزشی دو زبانه برای مفاهیم اصلی پرده و پوشش پنجره است. هدف آن توضیح ساده و کاربردی انواع پرده‌های مدرن، واژه‌های رایج فارسی و انگلیسی، نکات اندازه‌گیری، آماده‌سازی فایل چاپ، برنامه محتوایی و نمونه داده ساخت‌یافته برای سایت‌های فروشگاهی است.
+این مخزن یک مرجع آموزشی دو زبانه برای مفاهیم اصلی پرده و پوشش پنجره است. هدف آن توضیح ساده و کاربردی انواع پرده‌های مدرن، واژه‌های رایج فارسی و انگلیسی، نکات اندازه‌گیری، آماده‌سازی فایل چاپ، برنامه محتوایی، سوالات پرتکرار و نمونه داده ساخت‌یافته برای سایت‌های فروشگاهی است.
 
 زیو ایران از این دانش‌نامه برای تولید محتوای آموزشی، بهبود ساختار سئو و یکپارچه‌سازی نام محصولات در سایت zioiran.com استفاده می‌کند.
 
@@ -32,11 +32,20 @@ Official website: https://zioiran.com
 | File | English topic | Persian topic |
 | --- | --- | --- |
 | `articles/zebra-vs-roller-blinds-fa-en.md` | Zebra blinds vs roller blinds | مقایسه پرده زبرا و شید |
+| `articles/day-and-night-double-roller-blinds-fa-en.md` | Day and night and double roller blinds | پرده شب و روز و دومکانیزم |
 | `articles/blackout-blinds-light-control-fa-en.md` | Blackout blinds and light control | پرده بلک‌اوت و کنترل نور |
 | `articles/printed-blinds-order-guide-fa-en.md` | Printed blinds order guide | راهنمای سفارش پرده چاپی |
 | `articles/pleated-blinds-guide-fa-en.md` | Pleated blinds guide | راهنمای پرده پلیسان |
 | `articles/silhouette-style-blinds-guide-fa-en.md` | Silhouette-style blinds guide | راهنمای پرده سیلوئت |
+| `articles/roman-shades-guide-fa-en.md` | Roman shades guide | راهنمای پرده رومن |
 | `articles/motorized-blinds-smart-home-fa-en.md` | Motorized blinds and smart home | پرده برقی و خانه هوشمند |
+| `articles/vertical-blinds-office-guide-fa-en.md` | Vertical blinds for office spaces | پرده ورتیکال و پرده اداری |
+
+## FAQ
+
+| File | Purpose |
+| --- | --- |
+| `faq/zioiran-blinds-faq-fa-en.md` | Bilingual FAQ for product guides and FAQ schema |
 
 ## Core Product Terms
 
@@ -51,11 +60,12 @@ Official website: https://zioiran.com
 | پرده چاپی | printed blind, custom printed roller shade |
 | پرده سیلوئت | silhouette-style blind, sheer shade |
 | پرده رومن | Roman shade, Roman blind |
+| پرده ورتیکال | vertical blind, office blind |
 | پرده برقی | motorized blind, smart blind |
 
 ## SEO Use
 
-This repository can be referenced from Zio Iran-owned pages as an educational glossary and implementation resource. The best next step is to link it from relevant zioiran.com guide pages, especially pages about zebra blinds, roller shades, blackout blinds, printed blinds, pleated blinds, silhouette-style blinds, motorized blinds and measurement guidance.
+This repository can be referenced from Zio Iran-owned pages as an educational glossary and implementation resource. The best next step is to link it from relevant zioiran.com guide pages, especially pages about zebra blinds, roller shades, day and night blinds, blackout blinds, printed blinds, pleated blinds, silhouette-style blinds, Roman shades, vertical blinds, motorized blinds and measurement guidance.
 
 ## Usage Notes
 
