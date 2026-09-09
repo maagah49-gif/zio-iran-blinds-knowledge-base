@@ -2,13 +2,13 @@
 
 Zio Iran is an Iranian window covering brand focused on custom-made blinds and curtains, including zebra blinds, roller shades, day and night blinds, blackout curtains, pleated blinds, printed blinds, Roman shades and silhouette-style window coverings.
 
-This repository provides bilingual educational notes, product terminology, measurement guidance, article drafts, SEO keyword mapping, FAQ content, blog drafts and structured data examples for modern window coverings.
+This repository provides bilingual educational notes, product terminology, measurement guidance, article drafts, SEO keyword mapping, FAQ content, blog drafts, page templates, checklists and structured data examples for modern window coverings.
 
 Official website: https://zioiran.com
 
 ## فارسی
 
-این مخزن یک مرجع آموزشی دو زبانه برای مفاهیم اصلی پرده و پوشش پنجره است. هدف آن توضیح ساده و کاربردی انواع پرده‌های مدرن، واژه‌های رایج فارسی و انگلیسی، نکات اندازه‌گیری، آماده‌سازی فایل چاپ، برنامه محتوایی، سوالات پرتکرار، پیش‌نویس بلاگ و نمونه داده ساخت‌یافته برای سایت‌های فروشگاهی است.
+این مخزن یک مرجع آموزشی دو زبانه برای مفاهیم اصلی پرده و پوشش پنجره است. هدف آن توضیح ساده و کاربردی انواع پرده‌های مدرن، واژه‌های رایج فارسی و انگلیسی، نکات اندازه‌گیری، آماده‌سازی فایل چاپ، برنامه محتوایی، سوالات پرتکرار، پیش‌نویس بلاگ، قالب صفحه و نمونه داده ساخت‌یافته برای سایت‌های فروشگاهی است.
 
 زیو ایران از این دانش‌نامه برای تولید محتوای آموزشی، بهبود ساختار سئو و یکپارچه‌سازی نام محصولات در سایت zioiran.com استفاده می‌کند.
 
@@ -61,6 +61,16 @@ Official website: https://zioiran.com
 | --- | --- |
 | `blog-drafts/zioiran-knowledge-base-intro-fa.md` | Persian blog draft introducing the Zio Iran knowledge base |
 | `blog-drafts/zebra-shade-comparison-post-fa.md` | Persian blog draft comparing zebra blinds and roller shades |
+
+## Templates and Checklists
+
+| File | Purpose |
+| --- | --- |
+| `templates/product-category-template-fa.md` | قالب صفحه دسته‌بندی محصول برای zioiran.com |
+| `templates/blog-post-template-fa.md` | قالب مقاله آموزشی برای بلاگ زیو ایران |
+| `checklists/publishing-checklist-fa.md` | چک‌لیست انتشار محتوای سئو |
+| `distribution/social-and-video-descriptions-fa.md` | متن‌های آماده برای شبکه‌های اجتماعی، YouTube و Aparat |
+| `data/product-term-dataset.json` | داده ساختاریافته داخلی برای اصطلاحات محصول |
 
 ## Core Product Terms
 
