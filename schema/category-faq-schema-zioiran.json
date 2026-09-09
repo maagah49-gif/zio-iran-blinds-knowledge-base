@@ -1,0 +1,91 @@
+{
+  "note": "FAQ schema examples for Zio Iran category pages. The same questions and answers must be visible on the published page.",
+  "zebra_category_faq": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "پرده زبرا برای چه فضاهایی مناسب است؟",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "پرده زبرا برای پذیرایی، اتاق خواب، دفتر کار و فضاهایی مناسب است که کنترل نور و حریم خصوصی هر دو مهم هستند."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "تفاوت پرده زبرا و شید چیست؟",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "پرده زبرا نور را به صورت مرحله‌ای تنظیم می‌کند، اما پرده شید سطح ساده‌تری دارد و میزان نورگیری آن بیشتر به جنس پارچه وابسته است."
+        }
+      }
+    ]
+  },
+  "roller_category_faq": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "پرده شید برای چه دکورهایی مناسب است؟",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "پرده شید برای دکورهای مینیمال، مدرن و فضاهایی که ظاهر ساده و مرتب می‌خواهند مناسب است."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "آیا پرده شید قابل چاپ است؟",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "بله، پرده شید به دلیل سطح یکدست یکی از گزینه‌های مناسب برای چاپ طرح و تصویر است."
+        }
+      }
+    ]
+  },
+  "blackout_category_faq": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "پرده بلک‌اوت اتاق را کاملاً تاریک می‌کند؟",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "پرده بلک‌اوت عبور نور را بسیار کم می‌کند، اما نتیجه نهایی به نوع پارچه، اندازه‌گیری و درزهای کناری بستگی دارد."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "تفاوت بلک‌اوت با شید معمولی چیست؟",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "شید معمولی نور را فیلتر می‌کند، اما بلک‌اوت برای کاهش شدیدتر عبور نور طراحی شده است."
+        }
+      }
+    ]
+  },
+  "printed_category_faq": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "چه فایلی برای پرده چاپی مناسب است؟",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "فایلی مناسب است که وضوح بالا، نسبت تصویر درست و حاشیه امن کافی داشته باشد."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "آیا پرده شید برای چاپ مناسب است؟",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "بله، پرده شید به دلیل سطح یکدست معمولاً برای چاپ تصویر کامل گزینه مناسبی است."
+        }
+      }
+    ]
+  }
+}
