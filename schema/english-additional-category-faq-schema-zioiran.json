@@ -1,0 +1,97 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://zioiran.com/en/pleated-blinds/#faq",
+      "name": "Zio Iran Pleated Blinds FAQ",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Are pleated blinds good for small windows?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Pleated blinds have a compact folded structure, making them useful for small windows, narrow openings, glass doors and spaces with limited installation depth."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do pleated blinds block all light?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Most standard pleated blinds filter and soften light rather than block it completely. The final level of light control depends on fabric type, color and installation coverage."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://zioiran.com/en/silhouette-blinds/#faq",
+      "name": "Zio Iran Silhouette-Style Blinds FAQ",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Are silhouette-style blinds suitable for living rooms?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Silhouette-style blinds are commonly selected for living rooms because they soften daylight and create an elegant visual effect."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are silhouette-style blinds the same as zebra blinds?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Zebra blinds usually use clearer alternating bands, while silhouette-style blinds create a softer and more diffused light effect."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://zioiran.com/en/roman-shades/#faq",
+      "name": "Zio Iran Roman Shades FAQ",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Are Roman shades good for bedrooms?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Roman shades can work well in bedrooms, especially when a suitable fabric or lining is selected for privacy and room darkening."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are Roman shades modern or classic?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Roman shades can fit modern, classic or transitional interiors. The final style depends on fabric, color, fold style and surrounding decoration."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://zioiran.com/en/motorized-blinds/#faq",
+      "name": "Zio Iran Motorized Blinds FAQ",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Are motorized blinds suitable for smart homes?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Many motorized blinds can work with remotes, timers or smart-home systems, depending on the motor, controller and installation plan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can every blind be motorized?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Not always. Weight, window size, mechanism type and installation conditions determine whether motorization is practical and reliable."
+          }
+        }
+      ]
+    }
+  ]
+}
