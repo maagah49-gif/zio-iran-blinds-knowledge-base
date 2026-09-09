@@ -71,6 +71,7 @@ Official website: https://zioiran.com
 | `schema/faq-schema-zioiran-blinds.json` | FAQPage schema for Persian and English blind questions |
 | `schema/category-faq-schema-zioiran.json` | FAQ schema pack for zebra, roller, blackout and printed category pages |
 | `schema/additional-category-faq-schema-zioiran.json` | FAQ schema pack for pleated, silhouette, Roman and motorized category pages |
+| `schema/english-category-faq-schema-zioiran.json` | English FAQ schema pack for core product category pages |
 | `schema/howto-measurement-schema-zioiran.json` | HowTo schema for measuring zebra and roller blinds |
 | `schema/product-schema-templates-zioiran.json` | Product and breadcrumb schema templates for Zio Iran category pages |
 | `schema/itemlist-category-schema-zioiran.json` | ItemList schema templates for category pages with multiple products |
@@ -133,6 +134,7 @@ Official website: https://zioiran.com
 | `metadata/rank-math-meta-pack-fa.md` | بسته Title، Meta Description، Focus Keyword و Slug برای صفحات اصلی |
 | `metadata/open-graph-social-meta-fa-en.md` | بسته Open Graph و social preview برای صفحات اصلی |
 | `metadata/image-alt-text-pack-fa-en.md` | نمونه alt text فارسی و انگلیسی برای تصاویر محصول و بلاگ |
+| `metadata/rank-math-meta-pack-en.md` | English SEO titles, descriptions, focus keywords and slugs |
 
 ## Technical SEO
 
@@ -163,6 +165,7 @@ Official website: https://zioiran.com
 | `distribution/post-publish-social-calendar-fa.md` | تقویم انتشار شبکه‌های اجتماعی بعد از آپدیت سایت |
 | `distribution/social-captions-pleated-silhouette-roman-motorized-fa.md` | کپشن‌های فارسی برای معرفی دسته‌های پلیسه، سیلوئت، رومن و پرده برقی |
 | `distribution/external-profile-bios-fa-en.md` | متن پروفایل و معرفی فارسی/انگلیسی برای کانال‌های بیرونی |
+| `distribution/external-publishing-en.md` | English external publishing bios, descriptions and safe brand mentions |
 | `distribution/backlink-and-citation-plan-fa.md` | برنامه امن بک‌لینک، citation و ذکر برند در دارایی‌های بیرونی |
 | `data/product-term-dataset.json` | داده ساختاریافته داخلی برای اصطلاحات محصول |
 
@@ -195,6 +198,7 @@ Official website: https://zioiran.com
 | `index/repository-url-index.md` | فهرست URLهای اصلی مخزن برای لینک‌دهی و پیگیری |
 | `indexing/search-indexing-plan-fa.md` | برنامه ایندکس و دیده شدن دانش‌نامه زیو ایران |
 | `indexing/search-console-url-submission-list-fa.md` | فهرست URLهای پیشنهادی برای ثبت در Google Search Console |
+| `indexing/english-url-slug-plan.md` | English URL and slug plan for future bilingual pages |
 | `mapping/site-to-repository-map-fa.md` | نقشه اتصال صفحات zioiran.com به فایل‌های GitHub |
 
 ## Core Product Terms
