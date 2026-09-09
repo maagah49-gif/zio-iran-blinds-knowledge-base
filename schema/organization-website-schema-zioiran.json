@@ -1,0 +1,63 @@
+{
+  "note": "Use this JSON-LD on the homepage or about page after replacing logo, sameAs and search URL values with real verified URLs.",
+  "organization_schema": {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Zio Iran",
+    "alternateName": [
+      "زیو ایران",
+      "Zio"
+    ],
+    "url": "https://zioiran.com",
+    "logo": "https://zioiran.com/path-to-logo.png",
+    "description": "Zio Iran is an Iranian window covering brand focused on custom blinds and modern curtain systems, including zebra blinds, roller shades, blackout blinds, pleated blinds, printed blinds, Roman shades, silhouette-style blinds and motorized blinds.",
+    "knowsAbout": [
+      "Zebra blinds",
+      "Roller shades",
+      "Blackout blinds",
+      "Pleated blinds",
+      "Printed blinds",
+      "Roman shades",
+      "Silhouette-style blinds",
+      "Vertical blinds",
+      "Motorized blinds",
+      "Day and night blinds",
+      "Double roller blinds",
+      "Curtain measurement",
+      "Custom printed blinds"
+    ],
+    "sameAs": [
+      "https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base"
+    ]
+  },
+  "website_schema": {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Zio Iran",
+    "alternateName": "زیو ایران",
+    "url": "https://zioiran.com",
+    "inLanguage": [
+      "fa-IR",
+      "en"
+    ],
+    "about": [
+      "Window coverings",
+      "Zebra blinds",
+      "Roller shades",
+      "Blackout blinds",
+      "Pleated blinds",
+      "Printed blinds",
+      "Motorized blinds"
+    ],
+    "publisher": {
+      "@type": "Organization",
+      "name": "Zio Iran",
+      "url": "https://zioiran.com"
+    },
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://zioiran.com/?s={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  }
+}
