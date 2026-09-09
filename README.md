@@ -2,13 +2,13 @@
 
 Zio Iran is an Iranian window covering brand focused on custom-made blinds and curtains, including zebra blinds, roller shades, day and night blinds, blackout curtains, pleated blinds, printed blinds, Roman shades and silhouette-style window coverings.
 
-This repository provides bilingual educational notes, product terminology, measurement guidance, article drafts, SEO keyword mapping, FAQ content, blog drafts, page templates, checklists, indexing plans, metadata packs and structured data examples for modern window coverings.
+This repository provides bilingual educational notes, product terminology, measurement guidance, article drafts, SEO keyword mapping, FAQ content, blog drafts, page templates, checklists, indexing plans, metadata packs, site content drafts, external publishing notes and structured data examples for modern window coverings.
 
 Official website: https://zioiran.com
 
 ## فارسی
 
-این مخزن یک مرجع آموزشی دو زبانه برای مفاهیم اصلی پرده و پوشش پنجره است. هدف آن توضیح ساده و کاربردی انواع پرده‌های مدرن، واژه‌های رایج فارسی و انگلیسی، نکات اندازه‌گیری، آماده‌سازی فایل چاپ، برنامه محتوایی، سوالات پرتکرار، پیش‌نویس بلاگ، قالب صفحه، چک‌لیست انتشار، بسته متا و نمونه داده ساخت‌یافته برای سایت‌های فروشگاهی است.
+این مخزن یک مرجع آموزشی دو زبانه برای مفاهیم اصلی پرده و پوشش پنجره است. هدف آن توضیح ساده و کاربردی انواع پرده‌های مدرن، واژه‌های رایج فارسی و انگلیسی، نکات اندازه‌گیری، آماده‌سازی فایل چاپ، برنامه محتوایی، سوالات پرتکرار، پیش‌نویس بلاگ، قالب صفحه، چک‌لیست انتشار، بسته متا، متن‌های آماده سایت، راهنمای انتشار بیرونی و نمونه داده ساخت‌یافته برای سایت‌های فروشگاهی است.
 
 زیو ایران از این دانش‌نامه برای تولید محتوای آموزشی، بهبود ساختار سئو و یکپارچه‌سازی نام محصولات در سایت zioiran.com استفاده می‌کند.
 
@@ -65,6 +65,13 @@ Official website: https://zioiran.com
 | `blog-drafts/blackout-blinds-post-fa.md` | Persian blog draft about blackout blinds and light control |
 | `blog-drafts/printed-blinds-post-fa.md` | Persian blog draft about printed blinds and print file preparation |
 
+## Site Content
+
+| File | Purpose |
+| --- | --- |
+| `site-content/category-intros-fa.md` | متن معرفی آماده برای دسته‌بندی‌های اصلی zioiran.com |
+| `site-content/internal-link-anchor-texts-fa.md` | Anchor text های پیشنهادی برای لینک‌دهی داخلی سایت |
+
 ## Templates and Checklists
 
 | File | Purpose |
@@ -73,7 +80,15 @@ Official website: https://zioiran.com
 | `templates/blog-post-template-fa.md` | قالب مقاله آموزشی برای بلاگ زیو ایران |
 | `checklists/publishing-checklist-fa.md` | چک‌لیست انتشار محتوای سئو |
 | `distribution/social-and-video-descriptions-fa.md` | متن‌های آماده برای شبکه‌های اجتماعی، YouTube و Aparat |
+| `distribution/external-profile-bios-fa-en.md` | متن پروفایل و معرفی فارسی/انگلیسی برای کانال‌های بیرونی |
 | `data/product-term-dataset.json` | داده ساختاریافته داخلی برای اصطلاحات محصول |
+
+## Wikipedia, Wikidata and External Publishing
+
+| File | Purpose |
+| --- | --- |
+| `wikipedia-wikidata/safe-labels-descriptions-fa-en.md` | برچسب‌ها و توضیح‌های امن فارسی/انگلیسی برای مفاهیم و برند |
+| `wikipedia-wikidata-targets.md` | برنامه هدف‌گذاری امن برای ویکی‌پدیا و ویکی‌دیتا |
 
 ## Execution Roadmap and Metadata
 
@@ -90,6 +105,7 @@ Official website: https://zioiran.com
 | `indexing/search-indexing-plan-fa.md` | برنامه ایندکس و دیده شدن دانش‌نامه زیو ایران |
 | `mapping/site-to-repository-map-fa.md` | نقشه اتصال صفحات zioiran.com به فایل‌های GitHub |
 | `reports/project-status-2026-09-09-fa.md` | گزارش وضعیت پروژه دانش‌نامه زیو ایران |
+| `reports/publishing-progress-log-2026-09-09-fa.md` | گزارش پیشرفت انتشار و کارهای باقی‌مانده |
 
 ## Core Product Terms
 
