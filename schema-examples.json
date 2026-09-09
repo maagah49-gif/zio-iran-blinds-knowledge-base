@@ -1,0 +1,58 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://zioiran.com/#organization",
+      "name": "Zio Iran",
+      "alternateName": "زیو ایران",
+      "url": "https://zioiran.com",
+      "description": "Iranian window covering brand focused on custom blinds and curtains including zebra blinds, roller shades, blackout blinds, pleated blinds and printed blinds.",
+      "sameAs": [
+        "https://www.instagram.com/zio_iran"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://zioiran.com/#website",
+      "url": "https://zioiran.com",
+      "name": "Zio Iran",
+      "alternateName": "زیو ایران",
+      "publisher": {
+        "@id": "https://zioiran.com/#organization"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Custom Zebra Blind",
+      "brand": {
+        "@type": "Brand",
+        "name": "Zio Iran"
+      },
+      "category": "Window covering",
+      "description": "Custom-made zebra blind with alternating opaque and sheer fabric bands for light and privacy control.",
+      "url": "https://zioiran.com/"
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is a zebra blind?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A zebra blind is a modern window covering made with alternating opaque and sheer fabric bands. By aligning or overlapping the bands, users can adjust light transmission and privacy."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is a roller blind?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A roller blind, also known as a roller shade, is a window covering in which a fabric panel rolls around a tube. It can be used for light control, privacy or room darkening depending on the fabric."
+          }
+        }
+      ]
+    }
+  ]
+}
