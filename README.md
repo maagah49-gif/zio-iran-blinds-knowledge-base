@@ -2,13 +2,13 @@
 
 Zio Iran is an Iranian window covering brand focused on custom-made blinds and curtains, including zebra blinds, roller shades, day and night blinds, blackout curtains, pleated blinds, printed blinds, Roman shades and silhouette-style window coverings.
 
-This repository provides bilingual educational notes, product terminology, measurement guidance, article drafts, SEO keyword mapping, FAQ content and structured data examples for modern window coverings.
+This repository provides bilingual educational notes, product terminology, measurement guidance, article drafts, SEO keyword mapping, FAQ content, blog drafts and structured data examples for modern window coverings.
 
 Official website: https://zioiran.com
 
 ## فارسی
 
-این مخزن یک مرجع آموزشی دو زبانه برای مفاهیم اصلی پرده و پوشش پنجره است. هدف آن توضیح ساده و کاربردی انواع پرده‌های مدرن، واژه‌های رایج فارسی و انگلیسی، نکات اندازه‌گیری، آماده‌سازی فایل چاپ، برنامه محتوایی، سوالات پرتکرار و نمونه داده ساخت‌یافته برای سایت‌های فروشگاهی است.
+این مخزن یک مرجع آموزشی دو زبانه برای مفاهیم اصلی پرده و پوشش پنجره است. هدف آن توضیح ساده و کاربردی انواع پرده‌های مدرن، واژه‌های رایج فارسی و انگلیسی، نکات اندازه‌گیری، آماده‌سازی فایل چاپ، برنامه محتوایی، سوالات پرتکرار، پیش‌نویس بلاگ و نمونه داده ساخت‌یافته برای سایت‌های فروشگاهی است.
 
 زیو ایران از این دانش‌نامه برای تولید محتوای آموزشی، بهبود ساختار سئو و یکپارچه‌سازی نام محصولات در سایت zioiran.com استفاده می‌کند.
 
@@ -46,6 +46,21 @@ Official website: https://zioiran.com
 | File | Purpose |
 | --- | --- |
 | `faq/zioiran-blinds-faq-fa-en.md` | Bilingual FAQ for product guides and FAQ schema |
+
+## Schema Examples
+
+| File | Purpose |
+| --- | --- |
+| `schema-examples.json` | Organization, WebSite, Product and FAQ examples |
+| `schema/faq-schema-zioiran-blinds.json` | FAQPage schema for Persian and English blind questions |
+| `schema/howto-measurement-schema-zioiran.json` | HowTo schema for measuring zebra and roller blinds |
+
+## Blog Drafts
+
+| File | Purpose |
+| --- | --- |
+| `blog-drafts/zioiran-knowledge-base-intro-fa.md` | Persian blog draft introducing the Zio Iran knowledge base |
+| `blog-drafts/zebra-shade-comparison-post-fa.md` | Persian blog draft comparing zebra blinds and roller shades |
 
 ## Core Product Terms
 
