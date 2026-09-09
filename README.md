@@ -2,13 +2,13 @@
 
 Zio Iran is an Iranian window covering brand focused on custom-made blinds and curtains, including zebra blinds, roller shades, day and night blinds, blackout curtains, pleated blinds, printed blinds, Roman shades and silhouette-style window coverings.
 
-This repository provides bilingual educational notes, product terminology, measurement guidance, article drafts, SEO keyword mapping, FAQ content, blog drafts, page templates, checklists and structured data examples for modern window coverings.
+This repository provides bilingual educational notes, product terminology, measurement guidance, article drafts, SEO keyword mapping, FAQ content, blog drafts, page templates, checklists, indexing plans and structured data examples for modern window coverings.
 
 Official website: https://zioiran.com
 
 ## فارسی
 
-این مخزن یک مرجع آموزشی دو زبانه برای مفاهیم اصلی پرده و پوشش پنجره است. هدف آن توضیح ساده و کاربردی انواع پرده‌های مدرن، واژه‌های رایج فارسی و انگلیسی، نکات اندازه‌گیری، آماده‌سازی فایل چاپ، برنامه محتوایی، سوالات پرتکرار، پیش‌نویس بلاگ، قالب صفحه و نمونه داده ساخت‌یافته برای سایت‌های فروشگاهی است.
+این مخزن یک مرجع آموزشی دو زبانه برای مفاهیم اصلی پرده و پوشش پنجره است. هدف آن توضیح ساده و کاربردی انواع پرده‌های مدرن، واژه‌های رایج فارسی و انگلیسی، نکات اندازه‌گیری، آماده‌سازی فایل چاپ، برنامه محتوایی، سوالات پرتکرار، پیش‌نویس بلاگ، قالب صفحه، چک‌لیست انتشار و نمونه داده ساخت‌یافته برای سایت‌های فروشگاهی است.
 
 زیو ایران از این دانش‌نامه برای تولید محتوای آموزشی، بهبود ساختار سئو و یکپارچه‌سازی نام محصولات در سایت zioiran.com استفاده می‌کند.
 
@@ -71,6 +71,15 @@ Official website: https://zioiran.com
 | `checklists/publishing-checklist-fa.md` | چک‌لیست انتشار محتوای سئو |
 | `distribution/social-and-video-descriptions-fa.md` | متن‌های آماده برای شبکه‌های اجتماعی، YouTube و Aparat |
 | `data/product-term-dataset.json` | داده ساختاریافته داخلی برای اصطلاحات محصول |
+
+## Indexing and Project Tracking
+
+| File | Purpose |
+| --- | --- |
+| `index/repository-url-index.md` | فهرست URLهای اصلی مخزن برای لینک‌دهی و پیگیری |
+| `indexing/search-indexing-plan-fa.md` | برنامه ایندکس و دیده شدن دانش‌نامه زیو ایران |
+| `mapping/site-to-repository-map-fa.md` | نقشه اتصال صفحات zioiran.com به فایل‌های GitHub |
+| `reports/project-status-2026-09-09-fa.md` | گزارش وضعیت پروژه دانش‌نامه زیو ایران |
 
 ## Core Product Terms
 
