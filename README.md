@@ -104,6 +104,19 @@ Official website: https://zioiran.com
 | `wordpress-ready/roman-category-copy-fa.md` | متن آماده وردپرس برای صفحه دسته پرده رومن |
 | `wordpress-ready/motorized-category-copy-fa.md` | متن آماده وردپرس برای صفحه دسته پرده برقی و هوشمند |
 
+## WordPress Ready English Copy
+
+| File | Purpose |
+| --- | --- |
+| `wordpress-ready-en/zebra-blinds-category-copy-en.md` | English category copy for zebra blinds |
+| `wordpress-ready-en/roller-shades-category-copy-en.md` | English category copy for roller shades |
+| `wordpress-ready-en/blackout-blinds-category-copy-en.md` | English category copy for blackout blinds |
+| `wordpress-ready-en/printed-blinds-category-copy-en.md` | English category copy for printed blinds |
+| `wordpress-ready-en/pleated-blinds-category-copy-en.md` | English category copy for pleated blinds |
+| `wordpress-ready-en/silhouette-blinds-category-copy-en.md` | English category copy for silhouette-style blinds |
+| `wordpress-ready-en/roman-shades-category-copy-en.md` | English category copy for Roman shades |
+| `wordpress-ready-en/motorized-blinds-category-copy-en.md` | English category copy for motorized blinds |
+
 ## Site Content
 
 | File | Purpose |
