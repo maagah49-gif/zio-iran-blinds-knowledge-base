@@ -2,13 +2,13 @@
 
 Zio Iran is an Iranian window covering brand focused on custom-made blinds and curtains, including zebra blinds, roller shades, day and night blinds, blackout curtains, pleated blinds, printed blinds, Roman shades and silhouette-style window coverings.
 
-This repository provides bilingual educational notes, product terminology, measurement guidance, article drafts, SEO keyword mapping, semantic keyword clusters, content briefs, comparison tables, FAQ content, blog drafts, page templates, checklists, indexing plans, metadata packs, site content drafts, external publishing notes, technical SEO guidance, AI search resources and structured data examples for modern window coverings.
+This repository provides bilingual educational notes, product terminology, measurement guidance, article drafts, SEO keyword mapping, semantic keyword clusters, content briefs, comparison tables, FAQ content, blog drafts, WordPress-ready category copy, page templates, checklists, indexing plans, metadata packs, site content drafts, external publishing notes, technical SEO guidance, AI search resources and structured data examples for modern window coverings.
 
 Official website: https://zioiran.com
 
 ## فارسی
 
-این مخزن یک مرجع آموزشی دو زبانه برای مفاهیم اصلی پرده و پوشش پنجره است. هدف آن توضیح ساده و کاربردی انواع پرده‌های مدرن، واژه‌های رایج فارسی و انگلیسی، نکات اندازه‌گیری، آماده‌سازی فایل چاپ، برنامه محتوایی، خوشه‌بندی کلمات، brief تولید محتوا، جدول‌های مقایسه، سوالات پرتکرار، پیش‌نویس بلاگ، قالب صفحه، چک‌لیست انتشار، بسته متا، متن‌های آماده سایت، راهنمای انتشار بیرونی، راهنمای فنی سئو، منابع AI Search و نمونه داده ساخت‌یافته برای سایت‌های فروشگاهی است.
+این مخزن یک مرجع آموزشی دو زبانه برای مفاهیم اصلی پرده و پوشش پنجره است. هدف آن توضیح ساده و کاربردی انواع پرده‌های مدرن، واژه‌های رایج فارسی و انگلیسی، نکات اندازه‌گیری، آماده‌سازی فایل چاپ، برنامه محتوایی، خوشه‌بندی کلمات، brief تولید محتوا، جدول‌های مقایسه، سوالات پرتکرار، پیش‌نویس بلاگ، متن آماده وردپرس، قالب صفحه، چک‌لیست انتشار، بسته متا، متن‌های آماده سایت، راهنمای انتشار بیرونی، راهنمای فنی سئو، منابع AI Search و نمونه داده ساخت‌یافته برای سایت‌های فروشگاهی است.
 
 زیو ایران از این دانش‌نامه برای تولید محتوای آموزشی، بهبود ساختار سئو و یکپارچه‌سازی نام محصولات در سایت zioiran.com استفاده می‌کند.
 
@@ -69,6 +69,7 @@ Official website: https://zioiran.com
 | --- | --- |
 | `schema-examples.json` | Organization, WebSite, Product and FAQ examples |
 | `schema/faq-schema-zioiran-blinds.json` | FAQPage schema for Persian and English blind questions |
+| `schema/category-faq-schema-zioiran.json` | FAQ schema pack for zebra, roller, blackout and printed category pages |
 | `schema/howto-measurement-schema-zioiran.json` | HowTo schema for measuring zebra and roller blinds |
 | `schema/product-schema-templates-zioiran.json` | Product and breadcrumb schema templates for Zio Iran category pages |
 | `schema/itemlist-category-schema-zioiran.json` | ItemList schema templates for category pages with multiple products |
@@ -88,6 +89,15 @@ Official website: https://zioiran.com
 | `blog-drafts/zebra-vs-roller-blinds-post-en.md` | English blog draft comparing zebra blinds and roller shades |
 | `blog-drafts/blackout-blinds-post-en.md` | English blog draft about blackout blinds, privacy and light control |
 | `blog-drafts/printed-blinds-post-en.md` | English blog draft about printed blinds and artwork preparation |
+
+## WordPress Ready Copy
+
+| File | Purpose |
+| --- | --- |
+| `wordpress-ready/zebra-category-copy-fa.md` | متن آماده وردپرس برای صفحه دسته پرده زبرا |
+| `wordpress-ready/roller-shades-category-copy-fa.md` | متن آماده وردپرس برای صفحه دسته پرده شید |
+| `wordpress-ready/blackout-category-copy-fa.md` | متن آماده وردپرس برای صفحه دسته پرده بلک‌اوت |
+| `wordpress-ready/printed-blinds-category-copy-fa.md` | متن آماده وردپرس برای صفحه دسته پرده چاپی |
 
 ## Site Content
 
@@ -132,6 +142,7 @@ Official website: https://zioiran.com
 | `publishing/github-to-site-linking-instructions-fa.md` | دستورالعمل لینک‌دهی از سایت زیو ایران به مخزن GitHub |
 | `publishing/search-console-after-publish-workflow-fa.md` | workflow بعد از انتشار هر URL در Search Console |
 | `distribution/social-and-video-descriptions-fa.md` | متن‌های آماده برای شبکه‌های اجتماعی، YouTube و Aparat |
+| `distribution/post-publish-social-calendar-fa.md` | تقویم انتشار شبکه‌های اجتماعی بعد از آپدیت سایت |
 | `distribution/external-profile-bios-fa-en.md` | متن پروفایل و معرفی فارسی/انگلیسی برای کانال‌های بیرونی |
 | `distribution/backlink-and-citation-plan-fa.md` | برنامه امن بک‌لینک، citation و ذکر برند در دارایی‌های بیرونی |
 | `data/product-term-dataset.json` | داده ساختاریافته داخلی برای اصطلاحات محصول |
