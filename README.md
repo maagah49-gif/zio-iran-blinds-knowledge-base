@@ -66,6 +66,9 @@ Official website: https://zioiran.com
 | `blog-drafts/printed-blinds-post-fa.md` | Persian blog draft about printed blinds and print file preparation |
 | `blog-drafts/pleated-blinds-post-fa.md` | Persian blog draft about pleated blinds and suitable windows |
 | `blog-drafts/motorized-blinds-post-fa.md` | Persian blog draft about motorized blinds, motors and smart-home use |
+| `blog-drafts/zebra-vs-roller-blinds-post-en.md` | English blog draft comparing zebra blinds and roller shades |
+| `blog-drafts/blackout-blinds-post-en.md` | English blog draft about blackout blinds, privacy and light control |
+| `blog-drafts/printed-blinds-post-en.md` | English blog draft about printed blinds and artwork preparation |
 
 ## Site Content
 
@@ -85,6 +88,7 @@ Official website: https://zioiran.com
 | `publishing/wordpress-transfer-checklist-fa.md` | چک‌لیست انتقال محتوا از GitHub به WordPress |
 | `distribution/social-and-video-descriptions-fa.md` | متن‌های آماده برای شبکه‌های اجتماعی، YouTube و Aparat |
 | `distribution/external-profile-bios-fa-en.md` | متن پروفایل و معرفی فارسی/انگلیسی برای کانال‌های بیرونی |
+| `distribution/backlink-and-citation-plan-fa.md` | برنامه امن بک‌لینک، citation و ذکر برند در دارایی‌های بیرونی |
 | `data/product-term-dataset.json` | داده ساختاریافته داخلی برای اصطلاحات محصول |
 
 ## Wikipedia, Wikidata and External Publishing
@@ -100,6 +104,7 @@ Official website: https://zioiran.com
 | --- | --- |
 | `roadmap/next-30-days-fa.md` | نقشه راه ۳۰ روزه برای انتشار، لینک‌دهی و ایندکس |
 | `metadata/rank-math-meta-pack-fa.md` | بسته Title، Meta Description، Focus Keyword و Slug برای صفحات اصلی |
+| `metadata/open-graph-social-meta-fa-en.md` | بسته Open Graph و social preview برای صفحات اصلی |
 
 ## Indexing and Project Tracking
 
@@ -112,6 +117,7 @@ Official website: https://zioiran.com
 | `reports/project-status-2026-09-09-fa.md` | گزارش وضعیت پروژه دانش‌نامه زیو ایران |
 | `reports/publishing-progress-log-2026-09-09-fa.md` | گزارش پیشرفت انتشار و کارهای باقی‌مانده |
 | `reports/seo-assets-inventory-2026-09-09-fa.md` | فهرست دارایی‌های سئوی آماده‌شده و اولویت استفاده |
+| `reports/next-publishing-batch-2026-09-09-fa.md` | بسته بعدی انتشار برای سایت، پروفایل‌ها و Search Console |
 
 ## Core Product Terms
 
