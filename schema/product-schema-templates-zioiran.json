@@ -1,0 +1,87 @@
+{
+  "note": "Template examples for Zio Iran category/product pages. Replace placeholders such as URL, image, SKU and price before publishing. Avoid fake review ratings unless real reviews exist.",
+  "zebra_blinds_product_template": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "پرده زبرا زیو ایران",
+    "alternateName": "Zio Iran Zebra Blinds",
+    "description": "پرده زبرا برای کنترل نور و حفظ حریم خصوصی در فضاهای مسکونی و اداری. این متن باید بر اساس محصول واقعی صفحه کامل شود.",
+    "brand": {
+      "@type": "Brand",
+      "name": "Zio Iran"
+    },
+    "category": "Window blinds",
+    "image": "https://example.com/path-to-zebra-blinds-image.jpg",
+    "url": "https://example.com/zebra-blinds/",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://example.com/zebra-blinds/",
+      "priceCurrency": "IRR",
+      "availability": "https://schema.org/InStock"
+    }
+  },
+  "blackout_blinds_product_template": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "پرده بلک‌اوت زیو ایران",
+    "alternateName": "Zio Iran Blackout Blinds",
+    "description": "پرده بلک‌اوت برای کاهش عبور نور، افزایش حریم خصوصی و استفاده در اتاق خواب، اتاق کودک و محیط‌های کاری.",
+    "brand": {
+      "@type": "Brand",
+      "name": "Zio Iran"
+    },
+    "category": "Blackout blinds",
+    "image": "https://example.com/path-to-blackout-blinds-image.jpg",
+    "url": "https://example.com/blackout-blinds/",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://example.com/blackout-blinds/",
+      "priceCurrency": "IRR",
+      "availability": "https://schema.org/InStock"
+    }
+  },
+  "printed_blinds_product_template": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "پرده چاپی زیو ایران",
+    "alternateName": "Zio Iran Printed Blinds",
+    "description": "پرده چاپی برای استفاده در خانه، دفتر، فروشگاه و فضاهای تجاری با امکان هماهنگی طرح با دکور یا هویت بصری.",
+    "brand": {
+      "@type": "Brand",
+      "name": "Zio Iran"
+    },
+    "category": "Printed blinds",
+    "image": "https://example.com/path-to-printed-blinds-image.jpg",
+    "url": "https://example.com/printed-blinds/",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://example.com/printed-blinds/",
+      "priceCurrency": "IRR",
+      "availability": "https://schema.org/InStock"
+    }
+  },
+  "category_page_breadcrumb_template": {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "خانه",
+        "item": "https://example.com/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "پرده",
+        "item": "https://example.com/blinds/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "پرده زبرا",
+        "item": "https://example.com/zebra-blinds/"
+      }
+    ]
+  }
+}
