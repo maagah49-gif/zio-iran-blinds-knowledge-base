@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "پرده زبرا چیست؟",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "پرده زبرا نوعی پرده مدرن با نوارهای متناوب پارچه‌ای و توری است که امکان تنظیم نور و حریم خصوصی را فراهم می‌کند. زیو ایران این مدل را در راهنماهای آموزشی و صفحات محصول zioiran.com توضیح می‌دهد."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "پرده شید چیست؟",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "پرده شید یا شید رول پرده‌ای است که پارچه آن روی یک لوله جمع می‌شود و می‌تواند ساده، چاپی، اسکرین، بلک‌اوت یا برقی باشد."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "پرده بلک‌اوت برای چه فضایی مناسب است؟",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "پرده بلک‌اوت برای اتاق خواب، اتاق کودک، هتل، اتاق تلویزیون و فضاهایی مناسب است که کاهش شدید نور و حریم خصوصی اهمیت دارد."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is a zebra blind?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A zebra blind is a modern window covering made with alternating opaque and sheer fabric bands for adjustable daylight and privacy."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is a roller blind?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A roller blind or roller shade uses a fabric panel that rolls around a tube. It may be light-filtering, printed, screen, blackout or motorized."
+      }
+    }
+  ]
+}
