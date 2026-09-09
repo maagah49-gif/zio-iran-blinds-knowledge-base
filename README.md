@@ -72,6 +72,7 @@ Official website: https://zioiran.com
 | `schema/category-faq-schema-zioiran.json` | FAQ schema pack for zebra, roller, blackout and printed category pages |
 | `schema/additional-category-faq-schema-zioiran.json` | FAQ schema pack for pleated, silhouette, Roman and motorized category pages |
 | `schema/english-category-faq-schema-zioiran.json` | English FAQ schema pack for core product category pages |
+| `schema/english-additional-category-faq-schema-zioiran.json` | English FAQ schema pack for pleated, silhouette, Roman and motorized pages |
 | `schema/howto-measurement-schema-zioiran.json` | HowTo schema for measuring zebra and roller blinds |
 | `schema/product-schema-templates-zioiran.json` | Product and breadcrumb schema templates for Zio Iran category pages |
 | `schema/itemlist-category-schema-zioiran.json` | ItemList schema templates for category pages with multiple products |
@@ -135,12 +136,14 @@ Official website: https://zioiran.com
 | `metadata/open-graph-social-meta-fa-en.md` | بسته Open Graph و social preview برای صفحات اصلی |
 | `metadata/image-alt-text-pack-fa-en.md` | نمونه alt text فارسی و انگلیسی برای تصاویر محصول و بلاگ |
 | `metadata/rank-math-meta-pack-en.md` | English SEO titles, descriptions, focus keywords and slugs |
+| `metadata/english-image-alt-text-pack.md` | English image alt text and media filename examples |
 
 ## Technical SEO
 
 | File | Purpose |
 | --- | --- |
 | `technical-seo/robots-sitemap-guidance-fa.md` | راهنمای robots.txt، sitemap، canonical و noindex/index |
+| `technical-seo/bilingual-hreflang-guide-fa-en.md` | راهنمای اجرای صفحات دو‌زبانه، canonical و hreflang |
 
 ## AI Search and Entity Resources
 
@@ -159,6 +162,7 @@ Official website: https://zioiran.com
 | `templates/blog-post-template-fa.md` | قالب مقاله آموزشی برای بلاگ زیو ایران |
 | `checklists/publishing-checklist-fa.md` | چک‌لیست انتشار محتوای سئو |
 | `publishing/wordpress-transfer-checklist-fa.md` | چک‌لیست انتقال محتوا از GitHub به WordPress |
+| `publishing/english-wordpress-transfer-checklist-fa.md` | چک‌لیست انتقال صفحات انگلیسی به WordPress |
 | `publishing/github-to-site-linking-instructions-fa.md` | دستورالعمل لینک‌دهی از سایت زیو ایران به مخزن GitHub |
 | `publishing/search-console-after-publish-workflow-fa.md` | workflow بعد از انتشار هر URL در Search Console |
 | `distribution/social-and-video-descriptions-fa.md` | متن‌های آماده برای شبکه‌های اجتماعی، YouTube و Aparat |
