@@ -22,6 +22,7 @@ Official website: https://zioiran.com
 | `measurement-guide-fa.md` | راهنمای اندازه‌گیری پرده زبرا، شید، سیلوئت، رومن و پلیسان |
 | `print-file-guide-fa.md` | راهنمای آماده‌سازی فایل چاپ برای پرده شید و زبرا چاپی |
 | `content-calendar-seo-fa.md` | تقویم محتوایی پیشنهادی برای سئو زیو ایران |
+| `zioiran-internal-linking-plan.md` | برنامه لینک‌دهی داخلی از zioiran.com به منابع آموزشی |
 | `schema-examples.json` | Sample structured data for Organization, Product and FAQ |
 | `content-policy.md` | Safe content and brand mention policy |
 | `wikipedia-wikidata-targets.md` | Safe Wikipedia and Wikidata target plan |
@@ -33,6 +34,9 @@ Official website: https://zioiran.com
 | `articles/zebra-vs-roller-blinds-fa-en.md` | Zebra blinds vs roller blinds | مقایسه پرده زبرا و شید |
 | `articles/blackout-blinds-light-control-fa-en.md` | Blackout blinds and light control | پرده بلک‌اوت و کنترل نور |
 | `articles/printed-blinds-order-guide-fa-en.md` | Printed blinds order guide | راهنمای سفارش پرده چاپی |
+| `articles/pleated-blinds-guide-fa-en.md` | Pleated blinds guide | راهنمای پرده پلیسان |
+| `articles/silhouette-style-blinds-guide-fa-en.md` | Silhouette-style blinds guide | راهنمای پرده سیلوئت |
+| `articles/motorized-blinds-smart-home-fa-en.md` | Motorized blinds and smart home | پرده برقی و خانه هوشمند |
 
 ## Core Product Terms
 
@@ -51,7 +55,7 @@ Official website: https://zioiran.com
 
 ## SEO Use
 
-This repository can be referenced from Zio Iran-owned pages as an educational glossary and implementation resource. The best next step is to link it from relevant zioiran.com guide pages, especially pages about zebra blinds, roller shades, blackout blinds, printed blinds and measurement guidance.
+This repository can be referenced from Zio Iran-owned pages as an educational glossary and implementation resource. The best next step is to link it from relevant zioiran.com guide pages, especially pages about zebra blinds, roller shades, blackout blinds, printed blinds, pleated blinds, silhouette-style blinds, motorized blinds and measurement guidance.
 
 ## Usage Notes
 
