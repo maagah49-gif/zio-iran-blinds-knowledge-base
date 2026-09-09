@@ -28,11 +28,11 @@ Official website: https://zioiran.com
 
 ## Articles
 
-| File | Topic |
-| --- | --- |
-| `articles/zebra-vs-roller-blinds-fa-en.md` | Zebra blinds vs roller blinds / مقایسه پرده زبرا و شید |
-| `articles/blackout-blinds-light-control-fa-en.md` | Blackout blinds and light control / پرده بلک‌اوت و کنترل نور |
-| `articles/printed-blinds-order-guide-fa-en.md` | Printed blinds order guide / راهنمای سفارش پرده چاپی |
+| File | English topic | Persian topic |
+| --- | --- | --- |
+| `articles/zebra-vs-roller-blinds-fa-en.md` | Zebra blinds vs roller blinds | مقایسه پرده زبرا و شید |
+| `articles/blackout-blinds-light-control-fa-en.md` | Blackout blinds and light control | پرده بلک‌اوت و کنترل نور |
+| `articles/printed-blinds-order-guide-fa-en.md` | Printed blinds order guide | راهنمای سفارش پرده چاپی |
 
 ## Core Product Terms
 
