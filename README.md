@@ -33,6 +33,14 @@ Official website: https://zioiran.com
 | --- | --- |
 | `governance/project-scope-boundary-fa.md` | مرزبندی پروژه اصلی دانش‌نامه/سئو با دارایی‌های جانبی بازاریابی |
 
+## GitHub Metadata and Repository SEO
+
+| File | Purpose |
+| --- | --- |
+| `github/github-profile-and-repo-metadata-fa-en.md` | متن آماده فارسی/انگلیسی برای GitHub profile، repository description، topics و social preview |
+| `github/repository-seo-audit-fa.md` | چک‌لیست سئوی خود repository و نقاط قابل بهبود در GitHub |
+| `github/github-ui-update-instructions-fa.md` | دستورالعمل مرحله‌به‌مرحله تنظیم About، topics، website و profile در GitHub UI |
+
 ## Keyword Research and Content Briefs
 
 | File | Purpose |
