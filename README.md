@@ -93,6 +93,8 @@ Official website: https://zioiran.com
 | `schema/product-schema-templates-zioiran.json` | Product and breadcrumb schema templates for Zio Iran category pages |
 | `schema/itemlist-category-schema-zioiran.json` | ItemList schema templates for category pages with multiple products |
 | `schema/organization-website-schema-zioiran.json` | Organization and WebSite schema for the homepage or about page |
+| `schema/knowledge-base-page-schema-zioiran.json` | CollectionPage schema برای صفحه دانش‌نامه زیو ایران و اتصال آن به GitHub knowledge base |
+| `schema/knowledge-base-faq-schema-zioiran.json` | FAQPage schema برای سوالات صفحه دانش‌نامه زیو ایران |
 | `schema/schema-validation-checklist-fa.md` | Checklist for validating JSON-LD before publishing |
 
 ## Blog Drafts
@@ -123,6 +125,7 @@ Official website: https://zioiran.com
 | `wordpress-ready/roman-category-copy-fa.md` | متن آماده وردپرس برای صفحه دسته پرده رومن |
 | `wordpress-ready/motorized-category-copy-fa.md` | متن آماده وردپرس برای صفحه دسته پرده برقی و هوشمند |
 | `wordpress-ready/html-blocks-fa.md` | بلوک‌های HTML آماده برای صفحات فارسی وردپرس |
+| `wordpress-ready/knowledge-base-page-wordpress-fa.md` | متن آماده وردپرس برای صفحه دانش‌نامه پرده زیو ایران |
 
 ## WordPress Ready English Copy
 
@@ -154,6 +157,7 @@ Official website: https://zioiran.com
 | File | Purpose |
 | --- | --- |
 | `metadata/rank-math-meta-pack-fa.md` | بسته Title، Meta Description، Focus Keyword و Slug برای صفحات اصلی |
+| `metadata/rank-math-knowledge-base-page-fa.md` | تنظیمات Rank Math برای صفحه دانش‌نامه پرده زیو ایران |
 | `metadata/open-graph-social-meta-fa-en.md` | بسته Open Graph و social preview برای صفحات اصلی |
 | `metadata/image-alt-text-pack-fa-en.md` | نمونه alt text فارسی و انگلیسی برای تصاویر محصول و بلاگ |
 | `metadata/rank-math-meta-pack-en.md` | English SEO titles, descriptions, focus keywords and slugs |
