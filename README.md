@@ -126,6 +126,7 @@ Official website: https://zioiran.com
 | `wordpress-ready/motorized-category-copy-fa.md` | متن آماده وردپرس برای صفحه دسته پرده برقی و هوشمند |
 | `wordpress-ready/html-blocks-fa.md` | بلوک‌های HTML آماده برای صفحات فارسی وردپرس |
 | `wordpress-ready/knowledge-base-page-wordpress-fa.md` | متن آماده وردپرس برای صفحه دانش‌نامه پرده زیو ایران |
+| `wordpress-ready/knowledge-base-page-html-ready-fa.md` | نسخه HTML آماده برای قراردادن مستقیم صفحه دانش‌نامه در وردپرس |
 
 ## WordPress Ready English Copy
 
@@ -189,6 +190,7 @@ Official website: https://zioiran.com
 | `templates/blog-post-template-fa.md` | قالب مقاله آموزشی برای بلاگ زیو ایران |
 | `checklists/publishing-checklist-fa.md` | چک‌لیست انتشار محتوای سئو |
 | `publishing/wordpress-transfer-checklist-fa.md` | چک‌لیست انتقال محتوا از GitHub به WordPress |
+| `publishing/wordpress-knowledge-base-implementation-checklist-fa.md` | چک‌لیست اجرای صفحه دانش‌نامه در وردپرس، Rank Math، لینک‌ها و schema |
 | `publishing/english-wordpress-transfer-checklist-fa.md` | چک‌لیست انتقال صفحات انگلیسی به WordPress |
 | `publishing/bilingual-publishing-matrix-fa.md` | ماتریس اجرای فارسی/انگلیسی در سایت، اسکیما و Search Console |
 | `publishing/github-to-site-linking-instructions-fa.md` | دستورالعمل لینک‌دهی از سایت زیو ایران به مخزن GitHub |
@@ -283,6 +285,7 @@ Official website: https://zioiran.com
 | `indexing/search-indexing-plan-fa.md` | برنامه ایندکس و دیده شدن دانش‌نامه زیو ایران |
 | `indexing/search-console-url-submission-list-fa.md` | فهرست URLهای پیشنهادی برای ثبت در Google Search Console |
 | `indexing/github-knowledge-base-url-submission-fa.md` | فهرست URLهای مهم GitHub knowledge base برای بررسی ایندکس و discovery |
+| `indexing/knowledge-base-page-post-publish-tracking-fa.md` | فایل پیگیری بعد از انتشار صفحه دانش‌نامه در سایت زیو ایران |
 | `indexing/search-console-daily-tracking-fa.md` | فایل پیگیری روزانه Inspect URL و درخواست ایندکس |
 | `indexing/english-url-slug-plan.md` | English URL and slug plan for future bilingual pages |
 | `mapping/site-to-repository-map-fa.md` | نقشه اتصال صفحات zioiran.com به فایل‌های GitHub |
