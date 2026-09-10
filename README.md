@@ -221,6 +221,9 @@ Official website: https://zioiran.com
 | `wikipedia-wikidata/safe-labels-descriptions-fa-en.md` | برچسب‌ها و توضیح‌های امن فارسی/انگلیسی برای مفاهیم و برند |
 | `wikipedia-wikidata/wikidata-entity-preparation-fa-en.md` | بسته آماده‌سازی آیتم‌ها، label، description، aliases و claimهای امن ویکی‌دیتا |
 | `wikipedia-wikidata/source-requirements-for-zioiran-entity-fa.md` | نیازمندی منابع مستقل برای ساخت entity قابل دفاع زیو ایران |
+| `wikipedia-wikidata/independent-source-map-zioiran-fa.md` | نقشه منابع مستقل مورد نیاز برای ویکی، entity و Knowledge Graph |
+| `wikipedia-wikidata/zioiran-neutral-brand-article-draft-fa-en.md` | پیش‌نویس بی‌طرف فارسی/انگلیسی معرفی زیو ایران برای منابع بیرونی |
+| `wikipedia-wikidata/generic-blinds-wikipedia-edit-suggestions-fa-en.md` | پیشنهادهای امن برای ویرایش مقاله‌های عمومی پرده بدون تبلیغ برند |
 | `wikipedia-wikidata-targets.md` | برنامه هدف‌گذاری امن برای ویکی‌پدیا و ویکی‌دیتا |
 
 ## Execution Roadmap and Reports
