@@ -105,6 +105,7 @@ Official website: https://zioiran.com
 | `wordpress-ready/silhouette-category-copy-fa.md` | متن آماده وردپرس برای صفحه دسته پرده سیلوئت |
 | `wordpress-ready/roman-category-copy-fa.md` | متن آماده وردپرس برای صفحه دسته پرده رومن |
 | `wordpress-ready/motorized-category-copy-fa.md` | متن آماده وردپرس برای صفحه دسته پرده برقی و هوشمند |
+| `wordpress-ready/html-blocks-fa.md` | بلوک‌های HTML آماده برای صفحات فارسی وردپرس |
 
 ## WordPress Ready English Copy
 
@@ -118,6 +119,7 @@ Official website: https://zioiran.com
 | `wordpress-ready-en/silhouette-blinds-category-copy-en.md` | English category copy for silhouette-style blinds |
 | `wordpress-ready-en/roman-shades-category-copy-en.md` | English category copy for Roman shades |
 | `wordpress-ready-en/motorized-blinds-category-copy-en.md` | English category copy for motorized blinds |
+| `wordpress-ready-en/html-blocks-en.md` | English HTML blocks for WordPress category pages |
 
 ## Site Content
 
@@ -179,6 +181,7 @@ Official website: https://zioiran.com
 | File | Purpose |
 | --- | --- |
 | `qa/content-quality-checklist-fa-en.md` | چک‌لیست کنترل کیفیت فارسی و انگلیسی پیش از انتشار |
+| `qa/schema-url-consistency-audit-fa.md` | چک‌لیست هماهنگی URL، canonical، متن و اسکیما |
 
 ## Wikipedia, Wikidata and External Publishing
 
@@ -200,6 +203,7 @@ Official website: https://zioiran.com
 | `reports/weekly-seo-report-template-fa.md` | قالب گزارش هفتگی سئو زیو ایران |
 | `reports/implementation-priority-matrix-fa.md` | ماتریس اولویت اجرا بر اساس اثر و سختی |
 | `reports/day-1-site-implementation-plan-fa.md` | برنامه اجرای روز اول روی zioiran.com |
+| `reports/day-2-site-implementation-plan-fa.md` | برنامه اجرای روز دوم برای انتقال صفحات، FAQ و Search Console |
 | `reports/project-changelog-2026-09-09-fa.md` | گزارش تغییرات انجام‌شده در پروژه |
 | `reports/repository-final-audit-2026-09-09-fa.md` | گزارش بازبینی وضعیت فعلی مخزن و شکاف‌های باقی‌مانده |
 
