@@ -178,12 +178,14 @@ Official website: https://zioiran.com
 | `publishing/english-wordpress-transfer-checklist-fa.md` | چک‌لیست انتقال صفحات انگلیسی به WordPress |
 | `publishing/bilingual-publishing-matrix-fa.md` | ماتریس اجرای فارسی/انگلیسی در سایت، اسکیما و Search Console |
 | `publishing/github-to-site-linking-instructions-fa.md` | دستورالعمل لینک‌دهی از سایت زیو ایران به مخزن GitHub |
+| `publishing/external-profile-publishing-checklist-fa.md` | چک‌لیست انتشار پروفایل‌های بیرونی و یکدست‌سازی citationهای برند |
 | `publishing/search-console-after-publish-workflow-fa.md` | workflow بعد از انتشار هر URL در Search Console |
 | `distribution/social-and-video-descriptions-fa.md` | متن‌های آماده برای شبکه‌های اجتماعی، YouTube و Aparat |
 | `distribution/post-publish-social-calendar-fa.md` | تقویم انتشار شبکه‌های اجتماعی بعد از آپدیت سایت |
 | `distribution/social-captions-pleated-silhouette-roman-motorized-fa.md` | کپشن‌های فارسی برای معرفی دسته‌های پلیسه، سیلوئت، رومن و پرده برقی |
 | `distribution/external-profile-bios-fa-en.md` | متن پروفایل و معرفی فارسی/انگلیسی برای کانال‌های بیرونی |
 | `distribution/external-publishing-en.md` | English external publishing bios, descriptions and safe brand mentions |
+| `distribution/external-publishing-safe-snippets-fa-en.md` | متن‌های کوتاه امن فارسی/انگلیسی برای پروفایل‌ها، دایرکتوری‌ها و ذکر طبیعی برند |
 | `distribution/backlink-and-citation-plan-fa.md` | برنامه امن بک‌لینک، citation و ذکر برند در دارایی‌های بیرونی |
 | `data/product-term-dataset.json` | داده ساختاریافته داخلی برای اصطلاحات محصول |
 
@@ -223,6 +225,7 @@ Official website: https://zioiran.com
 | `wikipedia-wikidata/wikidata-entity-preparation-fa-en.md` | بسته آماده‌سازی آیتم‌ها، label، description، aliases و claimهای امن ویکی‌دیتا |
 | `wikipedia-wikidata/source-requirements-for-zioiran-entity-fa.md` | نیازمندی منابع مستقل برای ساخت entity قابل دفاع زیو ایران |
 | `wikipedia-wikidata/independent-source-map-zioiran-fa.md` | نقشه منابع مستقل مورد نیاز برای ویکی، entity و Knowledge Graph |
+| `wikipedia-wikidata/independent-source-tracker-zioiran-fa.md` | ردیاب منابع مستقل آینده برای زیو ایران و ارزیابی قابلیت استفاده در ویکی |
 | `wikipedia-wikidata/zioiran-neutral-brand-article-draft-fa-en.md` | پیش‌نویس بی‌طرف فارسی/انگلیسی معرفی زیو ایران برای منابع بیرونی |
 | `wikipedia-wikidata/generic-blinds-wikipedia-edit-suggestions-fa-en.md` | پیشنهادهای امن برای ویرایش مقاله‌های عمومی پرده بدون تبلیغ برند |
 | `wikipedia-wikidata/wikidata-quickstatements-draft-fa-en.md` | پیش‌نویس آماده‌سازی QuickStatements ویکی‌دیتا برای مفاهیم پرده و برند، بدون اجرای مستقیم |
