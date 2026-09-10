@@ -254,6 +254,7 @@ Official website: https://zioiran.com
 | `reports/wiki-entity-implementation-batch-2026-09-10-fa.md` | گزارش مرحله اجرای ویکی، ویکی‌دیتا و Entity SEO زیو ایران |
 | `reports/external-publishing-batch-2026-09-10-fa.md` | گزارش بسته انتشار بیرونی و تقویت citationهای برند زیو ایران |
 | `reports/publication-targets-batch-2026-09-10-fa.md` | گزارش بسته هدف‌های انتشار بیرونی، تقویم citation و پیام‌های outreach |
+| `reports/github-metadata-batch-2026-09-10-fa.md` | گزارش بسته GitHub Metadata و تنظیمات پیشنهادی برای بهتر دیده شدن repository |
 | `reports/publishing-progress-log-2026-09-09-fa.md` | گزارش پیشرفت انتشار و کارهای باقی‌مانده |
 | `reports/seo-assets-inventory-2026-09-09-fa.md` | فهرست دارایی‌های سئوی آماده‌شده و اولویت استفاده |
 | `reports/next-publishing-batch-2026-09-09-fa.md` | بسته بعدی انتشار برای سایت، پروفایل‌ها و Search Console |
