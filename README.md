@@ -200,6 +200,7 @@ Official website: https://zioiran.com
 | --- | --- |
 | `image-prompts/installation-consultation-luxury-prompts-fa-en.md` | پرامپت‌های ساخت تصویر لوکس برای ریلز مشاوره نصب |
 | `media/image-selection-checklist-installation-reel-fa.md` | چک‌لیست انتخاب یا ساخت تصویر برای ریلز نصب پرده |
+| `media/generated-installation-reel-preview-2026-09-10.md` | گزارش پیش‌نمایش تصویر تولیدی برای ریلز مشاوره نصب |
 
 ## Stories
 
