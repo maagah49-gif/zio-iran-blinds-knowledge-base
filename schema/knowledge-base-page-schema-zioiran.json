@@ -1,0 +1,72 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://zioiran.com/#organization",
+      "name": "Zio Iran",
+      "alternateName": [
+        "زیو ایران",
+        "Zio"
+      ],
+      "url": "https://zioiran.com",
+      "description": "Zio Iran is an Iranian brand focused on modern blinds and window coverings, including zebra blinds, roller shades, blackout blinds, printed blinds, pleated blinds and motorized blinds."
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://zioiran.com/#website",
+      "url": "https://zioiran.com",
+      "name": "Zio Iran",
+      "publisher": {
+        "@id": "https://zioiran.com/#organization"
+      }
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://zioiran.com/knowledge-base/#webpage",
+      "url": "https://zioiran.com/knowledge-base/",
+      "name": "دانش‌نامه پرده‌های مدرن زیو ایران",
+      "alternateName": "Zio Iran Modern Blinds Knowledge Base",
+      "description": "دانش‌نامه زیو ایران مرجع دو زبانه پرده زبرا، شید، بلک‌اوت، چاپی، پلیسه، سیلوئت، رومن، پرده موتوردار، اندازه‌گیری و اصطلاحات پرده است.",
+      "isPartOf": {
+        "@id": "https://zioiran.com/#website"
+      },
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Modern blinds"
+        },
+        {
+          "@type": "Thing",
+          "name": "Zebra blinds"
+        },
+        {
+          "@type": "Thing",
+          "name": "Roller shades"
+        },
+        {
+          "@type": "Thing",
+          "name": "Blackout blinds"
+        },
+        {
+          "@type": "Thing",
+          "name": "Window coverings"
+        }
+      ],
+      "mentions": [
+        {
+          "@id": "https://zioiran.com/#organization"
+        },
+        {
+          "@type": "CreativeWork",
+          "name": "Zio Iran Blinds Knowledge Base",
+          "url": "https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base"
+        }
+      ],
+      "inLanguage": [
+        "fa-IR",
+        "en"
+      ]
+    }
+  ]
+}
