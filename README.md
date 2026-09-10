@@ -264,6 +264,7 @@ Official website: https://zioiran.com
 | `reports/github-metadata-batch-2026-09-10-fa.md` | گزارش بسته GitHub Metadata و تنظیمات پیشنهادی برای بهتر دیده شدن repository |
 | `reports/site-to-github-linking-batch-2026-09-10-fa.md` | گزارش بسته لینک‌دهی سایت زیو ایران به GitHub knowledge base |
 | `reports/indexing-and-verification-batch-2026-09-10-fa.md` | گزارش بسته ایندکس، discovery و کنترل لینک سایت به GitHub |
+| `reports/wordpress-knowledge-base-page-batch-2026-09-10-fa.md` | گزارش بسته صفحه دانش‌نامه وردپرس، متا، FAQ و schema |
 | `reports/publishing-progress-log-2026-09-09-fa.md` | گزارش پیشرفت انتشار و کارهای باقی‌مانده |
 | `reports/seo-assets-inventory-2026-09-09-fa.md` | فهرست دارایی‌های سئوی آماده‌شده و اولویت استفاده |
 | `reports/next-publishing-batch-2026-09-09-fa.md` | بسته بعدی انتشار برای سایت، پروفایل‌ها و Search Console |
