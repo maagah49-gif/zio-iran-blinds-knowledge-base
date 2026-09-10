@@ -27,6 +27,12 @@ Official website: https://zioiran.com
 | `content-policy.md` | Safe content and brand mention policy |
 | `wikipedia-wikidata-targets.md` | Safe Wikipedia and Wikidata target plan |
 
+## Governance
+
+| File | Purpose |
+| --- | --- |
+| `governance/project-scope-boundary-fa.md` | مرزبندی پروژه اصلی دانش‌نامه/سئو با دارایی‌های جانبی بازاریابی |
+
 ## Keyword Research and Content Briefs
 
 | File | Purpose |
@@ -213,6 +219,8 @@ Official website: https://zioiran.com
 | File | Purpose |
 | --- | --- |
 | `wikipedia-wikidata/safe-labels-descriptions-fa-en.md` | برچسب‌ها و توضیح‌های امن فارسی/انگلیسی برای مفاهیم و برند |
+| `wikipedia-wikidata/wikidata-entity-preparation-fa-en.md` | بسته آماده‌سازی آیتم‌ها، label، description، aliases و claimهای امن ویکی‌دیتا |
+| `wikipedia-wikidata/source-requirements-for-zioiran-entity-fa.md` | نیازمندی منابع مستقل برای ساخت entity قابل دفاع زیو ایران |
 | `wikipedia-wikidata-targets.md` | برنامه هدف‌گذاری امن برای ویکی‌پدیا و ویکی‌دیتا |
 
 ## Execution Roadmap and Reports
