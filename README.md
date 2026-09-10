@@ -163,6 +163,7 @@ Official website: https://zioiran.com
 | `checklists/publishing-checklist-fa.md` | چک‌لیست انتشار محتوای سئو |
 | `publishing/wordpress-transfer-checklist-fa.md` | چک‌لیست انتقال محتوا از GitHub به WordPress |
 | `publishing/english-wordpress-transfer-checklist-fa.md` | چک‌لیست انتقال صفحات انگلیسی به WordPress |
+| `publishing/bilingual-publishing-matrix-fa.md` | ماتریس اجرای فارسی/انگلیسی در سایت، اسکیما و Search Console |
 | `publishing/github-to-site-linking-instructions-fa.md` | دستورالعمل لینک‌دهی از سایت زیو ایران به مخزن GitHub |
 | `publishing/search-console-after-publish-workflow-fa.md` | workflow بعد از انتشار هر URL در Search Console |
 | `distribution/social-and-video-descriptions-fa.md` | متن‌های آماده برای شبکه‌های اجتماعی، YouTube و Aparat |
@@ -172,6 +173,12 @@ Official website: https://zioiran.com
 | `distribution/external-publishing-en.md` | English external publishing bios, descriptions and safe brand mentions |
 | `distribution/backlink-and-citation-plan-fa.md` | برنامه امن بک‌لینک، citation و ذکر برند در دارایی‌های بیرونی |
 | `data/product-term-dataset.json` | داده ساختاریافته داخلی برای اصطلاحات محصول |
+
+## Quality Assurance
+
+| File | Purpose |
+| --- | --- |
+| `qa/content-quality-checklist-fa-en.md` | چک‌لیست کنترل کیفیت فارسی و انگلیسی پیش از انتشار |
 
 ## Wikipedia, Wikidata and External Publishing
 
@@ -186,6 +193,7 @@ Official website: https://zioiran.com
 | --- | --- |
 | `roadmap/next-30-days-fa.md` | نقشه راه ۳۰ روزه برای انتشار، لینک‌دهی و ایندکس |
 | `reports/project-status-2026-09-09-fa.md` | گزارش وضعیت پروژه دانش‌نامه زیو ایران |
+| `reports/project-status-2026-09-10-fa.md` | گزارش وضعیت پروژه در تاریخ 2026-09-10 و اولویت اجرای سایت |
 | `reports/publishing-progress-log-2026-09-09-fa.md` | گزارش پیشرفت انتشار و کارهای باقی‌مانده |
 | `reports/seo-assets-inventory-2026-09-09-fa.md` | فهرست دارایی‌های سئوی آماده‌شده و اولویت استفاده |
 | `reports/next-publishing-batch-2026-09-09-fa.md` | بسته بعدی انتشار برای سایت، پروفایل‌ها و Search Console |
@@ -202,6 +210,7 @@ Official website: https://zioiran.com
 | `index/repository-url-index.md` | فهرست URLهای اصلی مخزن برای لینک‌دهی و پیگیری |
 | `indexing/search-indexing-plan-fa.md` | برنامه ایندکس و دیده شدن دانش‌نامه زیو ایران |
 | `indexing/search-console-url-submission-list-fa.md` | فهرست URLهای پیشنهادی برای ثبت در Google Search Console |
+| `indexing/search-console-daily-tracking-fa.md` | فایل پیگیری روزانه Inspect URL و درخواست ایندکس |
 | `indexing/english-url-slug-plan.md` | English URL and slug plan for future bilingual pages |
 | `mapping/site-to-repository-map-fa.md` | نقشه اتصال صفحات zioiran.com به فایل‌های GitHub |
 
