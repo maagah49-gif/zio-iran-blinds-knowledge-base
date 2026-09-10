@@ -208,6 +208,7 @@ Official website: https://zioiran.com
 | --- | --- |
 | `qa/content-quality-checklist-fa-en.md` | چک‌لیست کنترل کیفیت فارسی و انگلیسی پیش از انتشار |
 | `qa/schema-url-consistency-audit-fa.md` | چک‌لیست هماهنگی URL، canonical، متن و اسکیما |
+| `qa/site-github-link-verification-checklist-fa.md` | چک‌لیست کنترل فنی و محتوایی لینک سایت زیو ایران به GitHub knowledge base |
 
 ## Social and Reels Scripts
 
@@ -258,6 +259,7 @@ Official website: https://zioiran.com
 | `reports/publication-targets-batch-2026-09-10-fa.md` | گزارش بسته هدف‌های انتشار بیرونی، تقویم citation و پیام‌های outreach |
 | `reports/github-metadata-batch-2026-09-10-fa.md` | گزارش بسته GitHub Metadata و تنظیمات پیشنهادی برای بهتر دیده شدن repository |
 | `reports/site-to-github-linking-batch-2026-09-10-fa.md` | گزارش بسته لینک‌دهی سایت زیو ایران به GitHub knowledge base |
+| `reports/indexing-and-verification-batch-2026-09-10-fa.md` | گزارش بسته ایندکس، discovery و کنترل لینک سایت به GitHub |
 | `reports/publishing-progress-log-2026-09-09-fa.md` | گزارش پیشرفت انتشار و کارهای باقی‌مانده |
 | `reports/seo-assets-inventory-2026-09-09-fa.md` | فهرست دارایی‌های سئوی آماده‌شده و اولویت استفاده |
 | `reports/next-publishing-batch-2026-09-09-fa.md` | بسته بعدی انتشار برای سایت، پروفایل‌ها و Search Console |
@@ -275,6 +277,7 @@ Official website: https://zioiran.com
 | `index/repository-url-index.md` | فهرست URLهای اصلی مخزن برای لینک‌دهی و پیگیری |
 | `indexing/search-indexing-plan-fa.md` | برنامه ایندکس و دیده شدن دانش‌نامه زیو ایران |
 | `indexing/search-console-url-submission-list-fa.md` | فهرست URLهای پیشنهادی برای ثبت در Google Search Console |
+| `indexing/github-knowledge-base-url-submission-fa.md` | فهرست URLهای مهم GitHub knowledge base برای بررسی ایندکس و discovery |
 | `indexing/search-console-daily-tracking-fa.md` | فایل پیگیری روزانه Inspect URL و درخواست ایندکس |
 | `indexing/english-url-slug-plan.md` | English URL and slug plan for future bilingual pages |
 | `mapping/site-to-repository-map-fa.md` | نقشه اتصال صفحات zioiran.com به فایل‌های GitHub |
