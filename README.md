@@ -145,6 +145,8 @@ Official website: https://zioiran.com
 | `site-content/category-intros-fa.md` | متن معرفی آماده برای دسته‌بندی‌های اصلی zioiran.com |
 | `site-content/category-intros-en.md` | English category intro drafts for bilingual or external pages |
 | `site-content/about-zioiran-page-fa-en.md` | پیش‌نویس صفحه درباره زیو ایران به فارسی و انگلیسی |
+| `site-content/knowledge-base-link-blocks-fa-en.md` | بلوک‌های HTML فارسی/انگلیسی برای لینک‌دهی از سایت زیو ایران به GitHub knowledge base |
+| `site-content/knowledge-base-page-draft-fa-en.md` | پیش‌نویس صفحه مستقل دانش‌نامه زیو ایران برای انتشار در سایت |
 | `site-content/internal-link-anchor-texts-fa.md` | Anchor text های پیشنهادی برای لینک‌دهی داخلی سایت |
 
 ## Metadata and Media SEO
@@ -275,6 +277,7 @@ Official website: https://zioiran.com
 | `indexing/search-console-daily-tracking-fa.md` | فایل پیگیری روزانه Inspect URL و درخواست ایندکس |
 | `indexing/english-url-slug-plan.md` | English URL and slug plan for future bilingual pages |
 | `mapping/site-to-repository-map-fa.md` | نقشه اتصال صفحات zioiran.com به فایل‌های GitHub |
+| `mapping/site-to-github-link-implementation-map-fa.md` | نقشه اجرای لینک‌دهی از صفحات سایت زیو ایران به فایل‌های GitHub knowledge base |
 
 ## Core Product Terms
 
