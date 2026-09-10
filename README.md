@@ -179,6 +179,8 @@ Official website: https://zioiran.com
 | `publishing/bilingual-publishing-matrix-fa.md` | ماتریس اجرای فارسی/انگلیسی در سایت، اسکیما و Search Console |
 | `publishing/github-to-site-linking-instructions-fa.md` | دستورالعمل لینک‌دهی از سایت زیو ایران به مخزن GitHub |
 | `publishing/external-profile-publishing-checklist-fa.md` | چک‌لیست انتشار پروفایل‌های بیرونی و یکدست‌سازی citationهای برند |
+| `publishing/external-publication-target-list-fa-en.md` | لیست هدف‌های انتشار بیرونی فارسی/انگلیسی برای تقویت Entity و citation برند |
+| `publishing/citation-building-calendar-fa.md` | تقویم دو هفته‌ای ساخت citation و انتشار کنترل‌شده نام زیو ایران |
 | `publishing/search-console-after-publish-workflow-fa.md` | workflow بعد از انتشار هر URL در Search Console |
 | `distribution/social-and-video-descriptions-fa.md` | متن‌های آماده برای شبکه‌های اجتماعی، YouTube و Aparat |
 | `distribution/post-publish-social-calendar-fa.md` | تقویم انتشار شبکه‌های اجتماعی بعد از آپدیت سایت |
@@ -186,6 +188,7 @@ Official website: https://zioiran.com
 | `distribution/external-profile-bios-fa-en.md` | متن پروفایل و معرفی فارسی/انگلیسی برای کانال‌های بیرونی |
 | `distribution/external-publishing-en.md` | English external publishing bios, descriptions and safe brand mentions |
 | `distribution/external-publishing-safe-snippets-fa-en.md` | متن‌های کوتاه امن فارسی/انگلیسی برای پروفایل‌ها، دایرکتوری‌ها و ذکر طبیعی برند |
+| `distribution/outreach-message-templates-fa-en.md` | قالب پیام فارسی/انگلیسی برای گرفتن پوشش مستقل و غیرتبلیغاتی از رسانه‌ها |
 | `distribution/backlink-and-citation-plan-fa.md` | برنامه امن بک‌لینک، citation و ذکر برند در دارایی‌های بیرونی |
 | `data/product-term-dataset.json` | داده ساختاریافته داخلی برای اصطلاحات محصول |
 
