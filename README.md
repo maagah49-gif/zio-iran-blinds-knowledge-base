@@ -62,6 +62,7 @@ Official website: https://zioiran.com
 | --- | --- |
 | `faq/zioiran-blinds-faq-fa-en.md` | Bilingual FAQ for product guides and FAQ schema |
 | `site-content/category-faq-blocks-fa-en.md` | FAQ blocks for product category pages in Persian and English |
+| `site-content/installation-consultation-faq-fa.md` | FAQ و متن مشاوره نصب روکار/توکار، سقفی/دیواری و پنجره بازشو |
 
 ## Schema Examples
 
@@ -73,6 +74,7 @@ Official website: https://zioiran.com
 | `schema/additional-category-faq-schema-zioiran.json` | FAQ schema pack for pleated, silhouette, Roman and motorized category pages |
 | `schema/english-category-faq-schema-zioiran.json` | English FAQ schema pack for core product category pages |
 | `schema/english-additional-category-faq-schema-zioiran.json` | English FAQ schema pack for pleated, silhouette, Roman and motorized pages |
+| `schema/installation-consultation-faq-schema-zioiran.json` | FAQ schema for installation consultation and mounting questions |
 | `schema/howto-measurement-schema-zioiran.json` | HowTo schema for measuring zebra and roller blinds |
 | `schema/product-schema-templates-zioiran.json` | Product and breadcrumb schema templates for Zio Iran category pages |
 | `schema/itemlist-category-schema-zioiran.json` | ItemList schema templates for category pages with multiple products |
@@ -92,6 +94,7 @@ Official website: https://zioiran.com
 | `blog-drafts/zebra-vs-roller-blinds-post-en.md` | English blog draft comparing zebra blinds and roller shades |
 | `blog-drafts/blackout-blinds-post-en.md` | English blog draft about blackout blinds, privacy and light control |
 | `blog-drafts/printed-blinds-post-en.md` | English blog draft about printed blinds and artwork preparation |
+| `blog-drafts/installation-before-ordering-blinds-fa.md` | مقاله فارسی درباره سوال‌های نصب قبل از سفارش پرده |
 
 ## WordPress Ready Copy
 
@@ -139,6 +142,7 @@ Official website: https://zioiran.com
 | `metadata/image-alt-text-pack-fa-en.md` | نمونه alt text فارسی و انگلیسی برای تصاویر محصول و بلاگ |
 | `metadata/rank-math-meta-pack-en.md` | English SEO titles, descriptions, focus keywords and slugs |
 | `metadata/english-image-alt-text-pack.md` | English image alt text and media filename examples |
+| `metadata/installation-consultation-meta-fa.md` | متای فارسی صفحه مشاوره نصب پرده |
 
 ## Technical SEO
 
@@ -182,6 +186,12 @@ Official website: https://zioiran.com
 | --- | --- |
 | `qa/content-quality-checklist-fa-en.md` | چک‌لیست کنترل کیفیت فارسی و انگلیسی پیش از انتشار |
 | `qa/schema-url-consistency-audit-fa.md` | چک‌لیست هماهنگی URL، canonical، متن و اسکیما |
+
+## Social and Reels Scripts
+
+| File | Purpose |
+| --- | --- |
+| `social/reels-scripts/installation-consultation-reel-fa.md` | سناریوی ریلز درباره سوال‌های مهم قبل از نصب و سفارش پرده |
 
 ## Wikipedia, Wikidata and External Publishing
 
