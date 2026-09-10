@@ -162,6 +162,7 @@ Official website: https://zioiran.com
 | File | Purpose |
 | --- | --- |
 | `entity/zioiran-brand-entity-profile-fa-en.md` | پروفایل entity برند Zio Iran برای یکسان‌سازی معرفی |
+| `entity/brand-consistency-checklist-zioiran-fa-en.md` | چک‌لیست یکدستی نام، توضیح و دسته‌بندی برند زیو ایران در فارسی و انگلیسی |
 | `ai-search/llms-txt-draft-zioiran.md` | پیش‌نویس llms.txt برای انتشار در zioiran.com |
 | `ai-search/answer-engine-optimization-faq-fa-en.md` | پاسخ‌های کوتاه آماده برای موتورهای پاسخ‌گو و AI Search |
 | `reports/ai-search-readiness-2026-09-09-fa.md` | گزارش آمادگی برای AI Search و مراحل بعدی |
@@ -224,6 +225,9 @@ Official website: https://zioiran.com
 | `wikipedia-wikidata/independent-source-map-zioiran-fa.md` | نقشه منابع مستقل مورد نیاز برای ویکی، entity و Knowledge Graph |
 | `wikipedia-wikidata/zioiran-neutral-brand-article-draft-fa-en.md` | پیش‌نویس بی‌طرف فارسی/انگلیسی معرفی زیو ایران برای منابع بیرونی |
 | `wikipedia-wikidata/generic-blinds-wikipedia-edit-suggestions-fa-en.md` | پیشنهادهای امن برای ویرایش مقاله‌های عمومی پرده بدون تبلیغ برند |
+| `wikipedia-wikidata/wikidata-quickstatements-draft-fa-en.md` | پیش‌نویس آماده‌سازی QuickStatements ویکی‌دیتا برای مفاهیم پرده و برند، بدون اجرای مستقیم |
+| `wikipedia-wikidata/notability-risk-assessment-zioiran-fa.md` | ارزیابی ریسک سرشناسی زیو ایران برای ویکی‌پدیا و ویکی‌دیتا |
+| `wikipedia-wikidata/wikipedia-source-outreach-brief-fa.md` | بریف تولید منابع مستقل و غیرتبلیغاتی برای پوشش برند زیو ایران |
 | `wikipedia-wikidata-targets.md` | برنامه هدف‌گذاری امن برای ویکی‌پدیا و ویکی‌دیتا |
 
 ## Execution Roadmap and Reports
