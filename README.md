@@ -192,6 +192,20 @@ Official website: https://zioiran.com
 | File | Purpose |
 | --- | --- |
 | `social/reels-scripts/installation-consultation-reel-fa.md` | سناریوی ریلز درباره سوال‌های مهم قبل از نصب و سفارش پرده |
+| `social/reels-scripts/installation-consultation-visual-storyboard-fa.md` | استوری‌بورد تصویری شات‌به‌شات برای ریلز مشاوره نصب |
+
+## Image Prompts and Media Planning
+
+| File | Purpose |
+| --- | --- |
+| `image-prompts/installation-consultation-luxury-prompts-fa-en.md` | پرامپت‌های ساخت تصویر لوکس برای ریلز مشاوره نصب |
+| `media/image-selection-checklist-installation-reel-fa.md` | چک‌لیست انتخاب یا ساخت تصویر برای ریلز نصب پرده |
+
+## Stories
+
+| File | Purpose |
+| --- | --- |
+| `social/stories/installation-consultation-story-set-fa.md` | ست استوری فارسی برای جذب مشاوره نصب پرده |
 
 ## Wikipedia, Wikidata and External Publishing
 
