@@ -230,6 +230,7 @@ Official website: https://zioiran.com
 | `publishing/external-publication-target-list-fa-en.md` | لیست هدف‌های انتشار بیرونی فارسی/انگلیسی برای تقویت Entity و citation برند |
 | `publishing/citation-building-calendar-fa.md` | تقویم دو هفته‌ای ساخت citation و انتشار کنترل‌شده نام زیو ایران |
 | `publishing/search-console-after-publish-workflow-fa.md` | workflow بعد از انتشار هر URL در Search Console |
+| `publishing/manual-panel-execution-checklist-fa.md` | چک‌لیست نهایی کارهای نیازمند پنل: GitHub Pages، WordPress، Rank Math، Search Console و ویکی |
 | `distribution/social-and-video-descriptions-fa.md` | متن‌های آماده برای شبکه‌های اجتماعی، YouTube و Aparat |
 | `distribution/post-publish-social-calendar-fa.md` | تقویم انتشار شبکه‌های اجتماعی بعد از آپدیت سایت |
 | `distribution/social-captions-pleated-silhouette-roman-motorized-fa.md` | کپشن‌های فارسی برای معرفی دسته‌های پلیسه، سیلوئت، رومن و پرده برقی |
