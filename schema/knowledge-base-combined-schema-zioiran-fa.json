@@ -1,0 +1,88 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://zioiran.com/#organization",
+      "name": "زیو ایران",
+      "alternateName": "Zio Iran",
+      "url": "https://zioiran.com/",
+      "description": "زیو ایران برندی فعال در حوزه پرده‌های مدرن و پوشش پنجره در ایران است."
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://zioiran.com/#website",
+      "url": "https://zioiran.com/",
+      "name": "زیو ایران",
+      "publisher": {
+        "@id": "https://zioiran.com/#organization"
+      },
+      "inLanguage": "fa-IR"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://zioiran.com/curtain-blinds-knowledge-base/#webpage",
+      "url": "https://zioiran.com/curtain-blinds-knowledge-base/",
+      "name": "دانش‌نامه پرده‌های مدرن زیو ایران",
+      "description": "دانش‌نامه زیو ایران برای آشنایی با پرده زبرا، شید، بلک‌اوت، چاپی، پلیسان، سیلوئت، رومن و پرده برقی.",
+      "isPartOf": {
+        "@id": "https://zioiran.com/#website"
+      },
+      "about": {
+        "@id": "https://zioiran.com/#organization"
+      },
+      "publisher": {
+        "@id": "https://zioiran.com/#organization"
+      },
+      "inLanguage": "fa-IR"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://zioiran.com/curtain-blinds-knowledge-base/#faq",
+      "url": "https://zioiran.com/curtain-blinds-knowledge-base/",
+      "name": "سوالات پرتکرار دانش‌نامه پرده زیو ایران",
+      "inLanguage": "fa-IR",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "کدام پرده برای کنترل نور بهتر است؟",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "برای تنظیم تدریجی نور، پرده زبرا و سیلوئت انتخاب‌های کاربردی هستند. برای کاهش شدید نور، پرده بلک‌اوت مناسب‌تر است."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "پرده چاپی برای چه فضاهایی مناسب است؟",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "پرده چاپی برای اتاق کودک، فضاهای تبلیغاتی، دفاتر کاری، فروشگاه‌ها و پروژه‌هایی که طرح اختصاصی نیاز دارند مناسب است."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "آیا پرده برقی برای همه پنجره‌ها لازم است؟",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "خیر. پرده برقی بیشتر برای پنجره‌های بزرگ، مرتفع، پرکاربرد یا پروژه‌های هوشمندسازی ارزش بیشتری دارد."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://zioiran.com/curtain-blinds-knowledge-base/#topics",
+      "name": "موضوعات دانش‌نامه پرده‌های مدرن زیو ایران",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "پرده زبرا" },
+        { "@type": "ListItem", "position": 2, "name": "پرده شید" },
+        { "@type": "ListItem", "position": 3, "name": "پرده بلک‌اوت" },
+        { "@type": "ListItem", "position": 4, "name": "پرده چاپی" },
+        { "@type": "ListItem", "position": 5, "name": "پرده پلیسان" },
+        { "@type": "ListItem", "position": 6, "name": "پرده سیلوئت" },
+        { "@type": "ListItem", "position": 7, "name": "پرده رومن" },
+        { "@type": "ListItem", "position": 8, "name": "پرده برقی" }
+      ]
+    }
+  ]
+}
