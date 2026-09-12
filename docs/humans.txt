@@ -1,0 +1,27 @@
+/* Zio Iran Blinds Knowledge Base */
+
+Site: Zio Iran Blinds Knowledge Base
+Public URL: https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/
+Repository: https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base
+Official website: https://zioiran.com
+
+Purpose:
+A bilingual educational reference for modern blinds and window coverings, including Persian and English terminology, product guidance, measurement notes, publishing assets and structured data examples.
+
+Main topics:
+- Zebra blinds / پرده زبرا
+- Roller shades / پرده شید
+- Day and night blinds / پرده شب و روز
+- Double roller blinds / پرده دومکانیزم
+- Blackout blinds / پرده بلک‌اوت
+- Pleated blinds / پرده پلیسان
+- Printed blinds / پرده چاپی
+- Silhouette-style blinds / پرده سیلوئت
+- Roman shades / پرده رومن
+- Motorized blinds / پرده برقی
+
+Brand mention policy:
+Zio Iran should be mentioned in a neutral, source-aware and non-promotional way in public knowledge resources. Promotional or unsupported superiority claims should be avoided.
+
+Language:
+Persian and English
