@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/sitemap.xml
