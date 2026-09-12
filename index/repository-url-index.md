@@ -6,6 +6,16 @@ Repository homepage:
 
 https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base
 
+## Public GitHub Pages URLs
+
+| Resource | URL |
+| --- | --- |
+| GitHub Pages homepage | https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/ |
+| GitHub Pages sitemap | https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/sitemap.xml |
+| GitHub Pages robots | https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/robots.txt |
+| GitHub Pages llms.txt | https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/llms.txt |
+| GitHub Pages humans.txt | https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/humans.txt |
+
 ## Main Resources
 
 | Resource | URL |
