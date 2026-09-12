@@ -1,0 +1,42 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://zioiran.com/en/modern-blinds-knowledge-base/#faq",
+  "url": "https://zioiran.com/en/modern-blinds-knowledge-base/",
+  "name": "Zio Iran Modern Blinds Knowledge Base FAQ",
+  "inLanguage": "en",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between zebra blinds and roller shades?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Zebra blinds use alternating sheer and opaque bands for adjustable light and privacy. Roller shades use one continuous fabric panel and usually have a simpler appearance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are blackout blinds completely dark?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blackout fabric can block a high level of light, but the final result also depends on side gaps, window depth and installation method."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can blinds be custom printed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Printed blinds can use custom designs when the source file is prepared with proper size, resolution and color expectations."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When are motorized blinds useful?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Motorized blinds are useful for wide, tall or frequently used windows and for projects that need remote control or smart-home integration."
+      }
+    }
+  ]
+}
