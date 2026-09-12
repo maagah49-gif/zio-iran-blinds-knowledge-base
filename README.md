@@ -127,6 +127,7 @@ Official website: https://zioiran.com
 | `wordpress-ready/html-blocks-fa.md` | بلوک‌های HTML آماده برای صفحات فارسی وردپرس |
 | `wordpress-ready/knowledge-base-page-wordpress-fa.md` | متن آماده وردپرس برای صفحه دانش‌نامه پرده زیو ایران |
 | `wordpress-ready/knowledge-base-page-html-ready-fa.md` | نسخه HTML آماده برای قراردادن مستقیم صفحه دانش‌نامه در وردپرس |
+| `wordpress-ready/knowledge-base-copy-paste-pack-fa.md` | پک نهایی کپی/پیست صفحه دانش‌نامه شامل عنوان، متا، لینک GitHub و FAQ |
 
 ## WordPress Ready English Copy
 
@@ -268,6 +269,7 @@ Official website: https://zioiran.com
 | `reports/indexing-and-verification-batch-2026-09-10-fa.md` | گزارش بسته ایندکس، discovery و کنترل لینک سایت به GitHub |
 | `reports/wordpress-knowledge-base-page-batch-2026-09-10-fa.md` | گزارش بسته صفحه دانش‌نامه وردپرس، متا، FAQ و schema |
 | `reports/wordpress-implementation-assets-batch-2026-09-10-fa.md` | گزارش بسته اجرای وردپرس، نسخه HTML آماده و پیگیری بعد از انتشار |
+| `reports/knowledge-base-execution-next-step-2026-09-12-fa.md` | گزارش قدم بعدی اجرای صفحه دانش‌نامه و تکمیل URLهای واقعی دسته‌بندی |
 | `reports/publishing-progress-log-2026-09-09-fa.md` | گزارش پیشرفت انتشار و کارهای باقی‌مانده |
 | `reports/seo-assets-inventory-2026-09-09-fa.md` | فهرست دارایی‌های سئوی آماده‌شده و اولویت استفاده |
 | `reports/next-publishing-batch-2026-09-09-fa.md` | بسته بعدی انتشار برای سایت، پروفایل‌ها و Search Console |
@@ -291,6 +293,7 @@ Official website: https://zioiran.com
 | `indexing/english-url-slug-plan.md` | English URL and slug plan for future bilingual pages |
 | `mapping/site-to-repository-map-fa.md` | نقشه اتصال صفحات zioiran.com به فایل‌های GitHub |
 | `mapping/site-to-github-link-implementation-map-fa.md` | نقشه اجرای لینک‌دهی از صفحات سایت زیو ایران به فایل‌های GitHub knowledge base |
+| `mapping/wordpress-category-url-replacement-map-fa.md` | نقشه جایگزینی URLهای نمونه دسته‌بندی با URL واقعی صفحات سایت زیو ایران |
 
 ## Core Product Terms
 
