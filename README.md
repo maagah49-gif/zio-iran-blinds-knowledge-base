@@ -96,6 +96,7 @@ Official website: https://zioiran.com
 | `schema/knowledge-base-page-schema-zioiran.json` | CollectionPage schema برای صفحه دانش‌نامه زیو ایران و اتصال آن به GitHub knowledge base |
 | `schema/knowledge-base-page-schema-zioiran-en.json` | English WebPage and ItemList schema for the Zio Iran modern blinds knowledge base page |
 | `schema/knowledge-base-faq-schema-zioiran.json` | FAQPage schema برای سوالات صفحه دانش‌نامه زیو ایران |
+| `qa/knowledge-base-prepublish-checklist-fa-en.md` | Pre-publish QA checklist for Persian and English knowledge base pages |
 | `schema/schema-validation-checklist-fa.md` | Checklist for validating JSON-LD before publishing |
 
 ## Blog Drafts
@@ -129,6 +130,7 @@ Official website: https://zioiran.com
 | `wordpress-ready/knowledge-base-page-wordpress-fa.md` | متن آماده وردپرس برای صفحه دانش‌نامه پرده زیو ایران |
 | `wordpress-ready/knowledge-base-page-html-ready-fa.md` | نسخه HTML آماده برای قراردادن مستقیم صفحه دانش‌نامه در وردپرس |
 | `wordpress-ready/knowledge-base-copy-paste-pack-fa.md` | پک نهایی کپی/پیست صفحه دانش‌نامه شامل عنوان، متا، لینک GitHub و FAQ |
+| `wordpress-ready/knowledge-base-page-no-internal-links-fa.md` | نسخه فارسی انتشار سریع صفحه دانش‌نامه بدون لینک داخلی نمونه |
 
 ## WordPress Ready English Copy
 
@@ -144,6 +146,7 @@ Official website: https://zioiran.com
 | `wordpress-ready-en/motorized-blinds-category-copy-en.md` | English category copy for motorized blinds |
 | `wordpress-ready-en/html-blocks-en.md` | English HTML blocks for WordPress category pages |
 | `wordpress-ready-en/knowledge-base-page-wordpress-en.md` | English WordPress-ready copy for the Zio Iran modern blinds knowledge base page |
+| `wordpress-ready-en/knowledge-base-page-no-internal-links-en.md` | Fast-publish English knowledge base page without placeholder internal links |
 
 ## Site Content
 
@@ -163,6 +166,7 @@ Official website: https://zioiran.com
 | `metadata/rank-math-meta-pack-fa.md` | بسته Title، Meta Description، Focus Keyword و Slug برای صفحات اصلی |
 | `metadata/rank-math-knowledge-base-page-fa.md` | تنظیمات Rank Math برای صفحه دانش‌نامه پرده زیو ایران |
 | `metadata/rank-math-knowledge-base-page-en.md` | English Rank Math metadata for the Zio Iran modern blinds knowledge base page |
+| `metadata/knowledge-base-og-image-brief-fa-en.md` | Open Graph image brief and alt text for Persian and English knowledge base pages |
 | `metadata/open-graph-social-meta-fa-en.md` | بسته Open Graph و social preview برای صفحات اصلی |
 | `metadata/image-alt-text-pack-fa-en.md` | نمونه alt text فارسی و انگلیسی برای تصاویر محصول و بلاگ |
 | `metadata/rank-math-meta-pack-en.md` | English SEO titles, descriptions, focus keywords and slugs |
@@ -175,6 +179,7 @@ Official website: https://zioiran.com
 | --- | --- |
 | `technical-seo/robots-sitemap-guidance-fa.md` | راهنمای robots.txt، sitemap، canonical و noindex/index |
 | `technical-seo/bilingual-hreflang-guide-fa-en.md` | راهنمای اجرای صفحات دو‌زبانه، canonical و hreflang |
+| `technical-seo/knowledge-base-hreflang-fa-en.md` | راهنمای hreflang اختصاصی صفحه دانش‌نامه فارسی و انگلیسی |
 
 ## AI Search and Entity Resources
 
@@ -195,6 +200,7 @@ Official website: https://zioiran.com
 | `checklists/publishing-checklist-fa.md` | چک‌لیست انتشار محتوای سئو |
 | `publishing/wordpress-transfer-checklist-fa.md` | چک‌لیست انتقال محتوا از GitHub به WordPress |
 | `publishing/wordpress-knowledge-base-implementation-checklist-fa.md` | چک‌لیست اجرای صفحه دانش‌نامه در وردپرس، Rank Math، لینک‌ها و schema |
+| `publishing/knowledge-base-minimum-viable-publish-plan-fa.md` | برنامه انتشار حداقلی صفحه دانش‌نامه وقتی URLهای داخلی هنوز نهایی نیستند |
 | `publishing/english-wordpress-transfer-checklist-fa.md` | چک‌لیست انتقال صفحات انگلیسی به WordPress |
 | `publishing/bilingual-publishing-matrix-fa.md` | ماتریس اجرای فارسی/انگلیسی در سایت، اسکیما و Search Console |
 | `publishing/github-to-site-linking-instructions-fa.md` | دستورالعمل لینک‌دهی از سایت زیو ایران به مخزن GitHub |
@@ -208,6 +214,7 @@ Official website: https://zioiran.com
 | `distribution/external-profile-bios-fa-en.md` | متن پروفایل و معرفی فارسی/انگلیسی برای کانال‌های بیرونی |
 | `distribution/external-publishing-en.md` | English external publishing bios, descriptions and safe brand mentions |
 | `distribution/external-publishing-safe-snippets-fa-en.md` | متن‌های کوتاه امن فارسی/انگلیسی برای پروفایل‌ها، دایرکتوری‌ها و ذکر طبیعی برند |
+| `distribution/knowledge-base-launch-announcements-fa-en.md` | متن‌های فارسی و انگلیسی معرفی انتشار صفحه دانش‌نامه زیو ایران |
 | `distribution/outreach-message-templates-fa-en.md` | قالب پیام فارسی/انگلیسی برای گرفتن پوشش مستقل و غیرتبلیغاتی از رسانه‌ها |
 | `distribution/backlink-and-citation-plan-fa.md` | برنامه امن بک‌لینک، citation و ذکر برند در دارایی‌های بیرونی |
 | `data/product-term-dataset.json` | داده ساختاریافته داخلی برای اصطلاحات محصول |
@@ -219,6 +226,7 @@ Official website: https://zioiran.com
 | `qa/content-quality-checklist-fa-en.md` | چک‌لیست کنترل کیفیت فارسی و انگلیسی پیش از انتشار |
 | `qa/schema-url-consistency-audit-fa.md` | چک‌لیست هماهنگی URL، canonical، متن و اسکیما |
 | `qa/site-github-link-verification-checklist-fa.md` | چک‌لیست کنترل فنی و محتوایی لینک سایت زیو ایران به GitHub knowledge base |
+| `qa/knowledge-base-prepublish-checklist-fa-en.md` | چک‌لیست کنترل محتوا، سئو، فنی و برند قبل از انتشار صفحه دانش‌نامه |
 
 ## Social and Reels Scripts
 
@@ -274,6 +282,7 @@ Official website: https://zioiran.com
 | `reports/wordpress-implementation-assets-batch-2026-09-10-fa.md` | گزارش بسته اجرای وردپرس، نسخه HTML آماده و پیگیری بعد از انتشار |
 | `reports/knowledge-base-execution-next-step-2026-09-12-fa.md` | گزارش قدم بعدی اجرای صفحه دانش‌نامه و تکمیل URLهای واقعی دسته‌بندی |
 | `reports/english-knowledge-base-page-batch-2026-09-12-fa.md` | گزارش بسته صفحه انگلیسی Knowledge Base، متا و schema |
+| `reports/ten-item-execution-batch-2026-09-12-fa.md` | گزارش بسته ۱۰ موردی اجرای دانش‌نامه، انتشار، ایندکس و QA |
 | `reports/publishing-progress-log-2026-09-09-fa.md` | گزارش پیشرفت انتشار و کارهای باقی‌مانده |
 | `reports/seo-assets-inventory-2026-09-09-fa.md` | فهرست دارایی‌های سئوی آماده‌شده و اولویت استفاده |
 | `reports/next-publishing-batch-2026-09-09-fa.md` | بسته بعدی انتشار برای سایت، پروفایل‌ها و Search Console |
@@ -293,11 +302,13 @@ Official website: https://zioiran.com
 | `indexing/search-console-url-submission-list-fa.md` | فهرست URLهای پیشنهادی برای ثبت در Google Search Console |
 | `indexing/github-knowledge-base-url-submission-fa.md` | فهرست URLهای مهم GitHub knowledge base برای بررسی ایندکس و discovery |
 | `indexing/knowledge-base-page-post-publish-tracking-fa.md` | فایل پیگیری بعد از انتشار صفحه دانش‌نامه در سایت زیو ایران |
+| `indexing/knowledge-base-search-console-submit-steps-fa.md` | مراحل ثبت صفحه دانش‌نامه فارسی و انگلیسی در Google Search Console |
 | `indexing/search-console-daily-tracking-fa.md` | فایل پیگیری روزانه Inspect URL و درخواست ایندکس |
 | `indexing/english-url-slug-plan.md` | English URL and slug plan for future bilingual pages |
 | `mapping/site-to-repository-map-fa.md` | نقشه اتصال صفحات zioiran.com به فایل‌های GitHub |
 | `mapping/site-to-github-link-implementation-map-fa.md` | نقشه اجرای لینک‌دهی از صفحات سایت زیو ایران به فایل‌های GitHub knowledge base |
 | `mapping/wordpress-category-url-replacement-map-fa.md` | نقشه جایگزینی URLهای نمونه دسته‌بندی با URL واقعی صفحات سایت زیو ایران |
+| `mapping/knowledge-base-url-map-fa-en.md` | نقشه URL، متن، متادیتا و schema صفحه دانش‌نامه فارسی و انگلیسی |
 
 ## Core Product Terms
 
