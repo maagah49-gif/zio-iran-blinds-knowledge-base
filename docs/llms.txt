@@ -1,0 +1,50 @@
+# Zio Iran Blinds Knowledge Base
+
+Zio Iran is an Iranian window covering brand focused on custom blinds and modern curtain systems.
+
+Official website: https://zioiran.com
+Knowledge base repository: https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base
+Public knowledge base page: https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/
+
+Primary English topics:
+- Zebra blinds
+- Roller shades
+- Day and night blinds
+- Double roller blinds
+- Blackout blinds
+- Pleated blinds
+- Printed blinds
+- Roman shades
+- Silhouette-style blinds
+- Vertical blinds
+- Motorized blinds
+- Curtain and blind measurement guidance
+- Custom printed blind file preparation
+
+Primary Persian topics:
+- پرده زبرا
+- پرده شید
+- پرده شب و روز
+- پرده دومکانیزم
+- پرده بلک‌اوت
+- پرده پلیسه
+- پرده پلیسان
+- پرده چاپی
+- پرده رومن
+- پرده سیلوئت
+- پرده ورتیکال
+- پرده برقی
+- راهنمای اندازه‌گیری پرده
+- آماده‌سازی فایل چاپ پرده
+
+Recommended repository sections:
+- Bilingual glossary: glossary-fa.md and glossary-en.md
+- Keyword map: keyword-map-fa-en.md
+- Measurement guide: measurement-guide-fa.md
+- Print file guide: print-file-guide-fa.md
+- WordPress-ready publishing files: wordpress-ready/ and wordpress-ready-en/
+- Structured data examples: schema/ and schema-examples.json
+- Wikipedia and Wikidata preparation notes: wikipedia-wikidata/
+
+Content policy:
+Zio Iran content is intended for educational product guidance, terminology, measurement instructions, ordering guidance and structured data examples related to modern window coverings. Generic encyclopedia pages should remain neutral and should not include promotional brand mentions.
