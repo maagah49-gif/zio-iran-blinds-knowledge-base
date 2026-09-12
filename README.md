@@ -43,6 +43,7 @@ Official website: https://zioiran.com
 | `docs/sitemap.xml` | Sitemap for the public GitHub Pages knowledge base URL, GitHub repository and official Zio Iran website |
 | `docs/.nojekyll` | Marker file to serve GitHub Pages content without Jekyll processing |
 | `docs/llms.txt` | Public llms.txt file for AI Search discovery on GitHub Pages |
+| `docs/humans.txt` | Public humans.txt file for brand, authorship and entity clarity on GitHub Pages |
 
 ## GitHub Metadata and Repository SEO
 
