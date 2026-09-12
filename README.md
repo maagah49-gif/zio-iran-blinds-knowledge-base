@@ -307,6 +307,7 @@ Official website: https://zioiran.com
 | `reports/wordpress-execution-ready-batch-2026-09-12-fa.md` | گزارش بسته آماده اجرای وردپرس شامل HTML، schema، لینک‌دهی و پیگیری ایندکس |
 | `reports/live-publishing-readiness-batch-2026-09-12-fa.md` | گزارش آمادگی انتشار زنده صفحه دانش‌نامه، Rank Math، schema و تست URL |
 | `reports/github-pages-readiness-batch-2026-09-12-fa.md` | گزارش آماده‌سازی GitHub Pages برای نمایش عمومی دانش‌نامه زیو ایران |
+| `reports/github-pages-indexing-support-2026-09-12-fa.md` | گزارش تکمیل فایل‌های کمکی robots، sitemap و nojekyll برای GitHub Pages |
 | `reports/all-remaining-tasks-execution-status-2026-09-12-fa.md` | گزارش اجرای تسک‌های مانده، وضعیت انجام‌شده‌ها و موارد نیازمند ورود وردپرس/Search Console |
 | `reports/final-execution-report-2026-09-12-fa.md` | گزارش نهایی اجرای پروژه، جمع‌بندی انجام‌شده‌ها و موارد نیازمند پنل |
 | `reports/publishing-progress-log-2026-09-09-fa.md` | گزارش پیشرفت انتشار و کارهای باقی‌مانده |
