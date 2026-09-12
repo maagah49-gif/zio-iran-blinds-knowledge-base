@@ -39,6 +39,9 @@ Official website: https://zioiran.com
 | --- | --- |
 | `docs/index.html` | Public HTML landing page for GitHub Pages and bilingual Zio Iran knowledge base discovery |
 | `docs/README.md` | Notes for the GitHub Pages docs folder and activation source |
+| `docs/robots.txt` | Robots file for GitHub Pages discovery and sitemap declaration |
+| `docs/sitemap.xml` | Sitemap for the public GitHub Pages knowledge base URL, GitHub repository and official Zio Iran website |
+| `docs/.nojekyll` | Marker file to serve GitHub Pages content without Jekyll processing |
 
 ## GitHub Metadata and Repository SEO
 
