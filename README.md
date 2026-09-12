@@ -94,6 +94,7 @@ Official website: https://zioiran.com
 | `schema/itemlist-category-schema-zioiran.json` | ItemList schema templates for category pages with multiple products |
 | `schema/organization-website-schema-zioiran.json` | Organization and WebSite schema for the homepage or about page |
 | `schema/knowledge-base-page-schema-zioiran.json` | CollectionPage schema برای صفحه دانش‌نامه زیو ایران و اتصال آن به GitHub knowledge base |
+| `schema/knowledge-base-page-schema-zioiran-en.json` | English WebPage and ItemList schema for the Zio Iran modern blinds knowledge base page |
 | `schema/knowledge-base-faq-schema-zioiran.json` | FAQPage schema برای سوالات صفحه دانش‌نامه زیو ایران |
 | `schema/schema-validation-checklist-fa.md` | Checklist for validating JSON-LD before publishing |
 
@@ -142,6 +143,7 @@ Official website: https://zioiran.com
 | `wordpress-ready-en/roman-shades-category-copy-en.md` | English category copy for Roman shades |
 | `wordpress-ready-en/motorized-blinds-category-copy-en.md` | English category copy for motorized blinds |
 | `wordpress-ready-en/html-blocks-en.md` | English HTML blocks for WordPress category pages |
+| `wordpress-ready-en/knowledge-base-page-wordpress-en.md` | English WordPress-ready copy for the Zio Iran modern blinds knowledge base page |
 
 ## Site Content
 
@@ -160,6 +162,7 @@ Official website: https://zioiran.com
 | --- | --- |
 | `metadata/rank-math-meta-pack-fa.md` | بسته Title، Meta Description، Focus Keyword و Slug برای صفحات اصلی |
 | `metadata/rank-math-knowledge-base-page-fa.md` | تنظیمات Rank Math برای صفحه دانش‌نامه پرده زیو ایران |
+| `metadata/rank-math-knowledge-base-page-en.md` | English Rank Math metadata for the Zio Iran modern blinds knowledge base page |
 | `metadata/open-graph-social-meta-fa-en.md` | بسته Open Graph و social preview برای صفحات اصلی |
 | `metadata/image-alt-text-pack-fa-en.md` | نمونه alt text فارسی و انگلیسی برای تصاویر محصول و بلاگ |
 | `metadata/rank-math-meta-pack-en.md` | English SEO titles, descriptions, focus keywords and slugs |
@@ -270,6 +273,7 @@ Official website: https://zioiran.com
 | `reports/wordpress-knowledge-base-page-batch-2026-09-10-fa.md` | گزارش بسته صفحه دانش‌نامه وردپرس، متا، FAQ و schema |
 | `reports/wordpress-implementation-assets-batch-2026-09-10-fa.md` | گزارش بسته اجرای وردپرس، نسخه HTML آماده و پیگیری بعد از انتشار |
 | `reports/knowledge-base-execution-next-step-2026-09-12-fa.md` | گزارش قدم بعدی اجرای صفحه دانش‌نامه و تکمیل URLهای واقعی دسته‌بندی |
+| `reports/english-knowledge-base-page-batch-2026-09-12-fa.md` | گزارش بسته صفحه انگلیسی Knowledge Base، متا و schema |
 | `reports/publishing-progress-log-2026-09-09-fa.md` | گزارش پیشرفت انتشار و کارهای باقی‌مانده |
 | `reports/seo-assets-inventory-2026-09-09-fa.md` | فهرست دارایی‌های سئوی آماده‌شده و اولویت استفاده |
 | `reports/next-publishing-batch-2026-09-09-fa.md` | بسته بعدی انتشار برای سایت، پروفایل‌ها و Search Console |
