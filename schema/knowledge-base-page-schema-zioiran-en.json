@@ -1,0 +1,86 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://zioiran.com/#organization",
+      "name": "Zio Iran",
+      "url": "https://zioiran.com/",
+      "description": "Zio Iran is active in modern blinds and window-covering products in Iran, including zebra blinds, roller shades, blackout blinds, printed blinds, pleated blinds, silhouette-style blinds, Roman shades and motorized blinds."
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://zioiran.com/#website",
+      "url": "https://zioiran.com/",
+      "name": "Zio Iran",
+      "publisher": {
+        "@id": "https://zioiran.com/#organization"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://zioiran.com/en/modern-blinds-knowledge-base/#webpage",
+      "url": "https://zioiran.com/en/modern-blinds-knowledge-base/",
+      "name": "Zio Iran Modern Blinds Knowledge Base",
+      "description": "A practical English knowledge base by Zio Iran about zebra blinds, roller shades, blackout blinds, printed blinds, pleated blinds, silhouette-style blinds, Roman shades and motorized blinds.",
+      "isPartOf": {
+        "@id": "https://zioiran.com/#website"
+      },
+      "about": {
+        "@id": "https://zioiran.com/#organization"
+      },
+      "publisher": {
+        "@id": "https://zioiran.com/#organization"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://zioiran.com/en/modern-blinds-knowledge-base/#topics",
+      "name": "Modern blinds topics covered by Zio Iran",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Zebra blinds"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Roller shades"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Blackout blinds"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Printed blinds"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Pleated blinds"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Silhouette-style blinds"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Roman shades"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Motorized blinds"
+        }
+      ]
+    }
+  ]
+}
