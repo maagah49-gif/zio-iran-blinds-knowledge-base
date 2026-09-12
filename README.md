@@ -44,6 +44,8 @@ Official website: https://zioiran.com
 | `docs/.nojekyll` | Marker file to serve GitHub Pages content without Jekyll processing |
 | `docs/llms.txt` | Public llms.txt file for AI Search discovery on GitHub Pages |
 | `docs/humans.txt` | Public humans.txt file for brand, authorship and entity clarity on GitHub Pages |
+| `docs/site.webmanifest` | Web manifest for the public GitHub Pages knowledge base identity |
+| `docs/metadata.json` | Public JSON metadata for Zio Iran knowledge base entity and topic discovery |
 
 ## GitHub Metadata and Repository SEO
 
