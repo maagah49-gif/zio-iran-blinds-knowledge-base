@@ -1,0 +1,14 @@
+{
+  "name": "Zio Iran Blinds Knowledge Base",
+  "short_name": "Zio Blinds KB",
+  "description": "Bilingual educational reference for modern blinds and window coverings by Zio Iran.",
+  "start_url": "/zio-iran-blinds-knowledge-base/",
+  "scope": "/zio-iran-blinds-knowledge-base/",
+  "display": "standalone",
+  "background_color": "#f7f7f5",
+  "theme_color": "#111111",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["education", "business", "reference"],
+  "prefer_related_applications": false
+}
