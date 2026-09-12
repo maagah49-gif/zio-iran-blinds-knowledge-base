@@ -95,6 +95,8 @@ Official website: https://zioiran.com
 | `schema/organization-website-schema-zioiran.json` | Organization and WebSite schema for the homepage or about page |
 | `schema/knowledge-base-page-schema-zioiran.json` | CollectionPage schema برای صفحه دانش‌نامه زیو ایران و اتصال آن به GitHub knowledge base |
 | `schema/knowledge-base-page-schema-zioiran-en.json` | English WebPage and ItemList schema for the Zio Iran modern blinds knowledge base page |
+| `schema/knowledge-base-combined-schema-zioiran-fa.json` | اسکیمای ترکیبی فارسی صفحه دانش‌نامه شامل Organization، WebPage، FAQ و ItemList |
+| `schema/knowledge-base-combined-schema-zioiran-en.json` | Combined English schema for the knowledge base page, including Organization, WebPage, FAQ and ItemList |
 | `schema/knowledge-base-faq-schema-zioiran.json` | FAQPage schema برای سوالات صفحه دانش‌نامه زیو ایران |
 | `schema/knowledge-base-faq-schema-zioiran-en.json` | English FAQPage schema for the knowledge base page |
 | `qa/knowledge-base-prepublish-checklist-fa-en.md` | Pre-publish QA checklist for Persian and English knowledge base pages |
@@ -133,6 +135,7 @@ Official website: https://zioiran.com
 | `wordpress-ready/knowledge-base-copy-paste-pack-fa.md` | پک نهایی کپی/پیست صفحه دانش‌نامه شامل عنوان، متا، لینک GitHub و FAQ |
 | `wordpress-ready/knowledge-base-page-no-internal-links-fa.md` | نسخه فارسی انتشار سریع صفحه دانش‌نامه بدون لینک داخلی نمونه |
 | `wordpress-ready/knowledge-base-html-no-internal-links-fa.md` | HTML آماده فارسی برای انتشار سریع صفحه دانش‌نامه در وردپرس |
+| `wordpress-ready/knowledge-base-rankmath-schema-paste-pack-fa.md` | پک کپی/پیست Rank Math و schema برای انتشار صفحه دانش‌نامه فارسی |
 
 ## WordPress Ready English Copy
 
@@ -162,6 +165,7 @@ Official website: https://zioiran.com
 | `site-content/knowledge-base-page-draft-fa-en.md` | پیش‌نویس صفحه مستقل دانش‌نامه زیو ایران برای انتشار در سایت |
 | `site-content/homepage-knowledge-base-link-block-fa.md` | بلوک لینک‌دهی از صفحه اصلی به صفحه دانش‌نامه زیو ایران |
 | `site-content/category-to-knowledge-base-snippets-fa.md` | متن‌های کوتاه لینک‌دهی از صفحات دسته‌بندی به دانش‌نامه |
+| `qa/knowledge-base-live-url-test-cases-fa.md` | تست‌های URL زنده صفحه دانش‌نامه بعد از انتشار در سایت |
 | `site-content/internal-link-anchor-texts-fa.md` | Anchor text های پیشنهادی برای لینک‌دهی داخلی سایت |
 
 ## Metadata and Media SEO
@@ -206,6 +210,7 @@ Official website: https://zioiran.com
 | `publishing/wordpress-transfer-checklist-fa.md` | چک‌لیست انتقال محتوا از GitHub به WordPress |
 | `publishing/wordpress-knowledge-base-implementation-checklist-fa.md` | چک‌لیست اجرای صفحه دانش‌نامه در وردپرس، Rank Math، لینک‌ها و schema |
 | `publishing/knowledge-base-minimum-viable-publish-plan-fa.md` | برنامه انتشار حداقلی صفحه دانش‌نامه وقتی URLهای داخلی هنوز نهایی نیستند |
+| `publishing/wordpress-live-publish-step-by-step-fa.md` | راهنمای مرحله‌به‌مرحله انتشار زنده صفحه دانش‌نامه در وردپرس |
 | `publishing/english-wordpress-transfer-checklist-fa.md` | چک‌لیست انتقال صفحات انگلیسی به WordPress |
 | `publishing/bilingual-publishing-matrix-fa.md` | ماتریس اجرای فارسی/انگلیسی در سایت، اسکیما و Search Console |
 | `publishing/github-to-site-linking-instructions-fa.md` | دستورالعمل لینک‌دهی از سایت زیو ایران به مخزن GitHub |
@@ -289,6 +294,7 @@ Official website: https://zioiran.com
 | `reports/english-knowledge-base-page-batch-2026-09-12-fa.md` | گزارش بسته صفحه انگلیسی Knowledge Base، متا و schema |
 | `reports/ten-item-execution-batch-2026-09-12-fa.md` | گزارش بسته ۱۰ موردی اجرای دانش‌نامه، انتشار، ایندکس و QA |
 | `reports/wordpress-execution-ready-batch-2026-09-12-fa.md` | گزارش بسته آماده اجرای وردپرس شامل HTML، schema، لینک‌دهی و پیگیری ایندکس |
+| `reports/live-publishing-readiness-batch-2026-09-12-fa.md` | گزارش آمادگی انتشار زنده صفحه دانش‌نامه، Rank Math، schema و تست URL |
 | `reports/publishing-progress-log-2026-09-09-fa.md` | گزارش پیشرفت انتشار و کارهای باقی‌مانده |
 | `reports/seo-assets-inventory-2026-09-09-fa.md` | فهرست دارایی‌های سئوی آماده‌شده و اولویت استفاده |
 | `reports/next-publishing-batch-2026-09-09-fa.md` | بسته بعدی انتشار برای سایت، پروفایل‌ها و Search Console |
