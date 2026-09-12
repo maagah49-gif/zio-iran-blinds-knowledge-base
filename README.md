@@ -33,6 +33,13 @@ Official website: https://zioiran.com
 | --- | --- |
 | `governance/project-scope-boundary-fa.md` | مرزبندی پروژه اصلی دانش‌نامه/سئو با دارایی‌های جانبی بازاریابی |
 
+## GitHub Pages
+
+| File | Purpose |
+| --- | --- |
+| `docs/index.html` | Public HTML landing page for GitHub Pages and bilingual Zio Iran knowledge base discovery |
+| `docs/README.md` | Notes for the GitHub Pages docs folder and activation source |
+
 ## GitHub Metadata and Repository SEO
 
 | File | Purpose |
@@ -40,6 +47,7 @@ Official website: https://zioiran.com
 | `github/github-profile-and-repo-metadata-fa-en.md` | متن آماده فارسی/انگلیسی برای GitHub profile، repository description، topics و social preview |
 | `github/repository-seo-audit-fa.md` | چک‌لیست سئوی خود repository و نقاط قابل بهبود در GitHub |
 | `github/github-ui-update-instructions-fa.md` | دستورالعمل مرحله‌به‌مرحله تنظیم About، topics، website و profile در GitHub UI |
+| `github/github-pages-activation-guide-fa.md` | راهنمای فارسی فعال‌سازی GitHub Pages از پوشه docs برای دانش‌نامه زیو ایران |
 
 ## Keyword Research and Content Briefs
 
@@ -295,6 +303,7 @@ Official website: https://zioiran.com
 | `reports/ten-item-execution-batch-2026-09-12-fa.md` | گزارش بسته ۱۰ موردی اجرای دانش‌نامه، انتشار، ایندکس و QA |
 | `reports/wordpress-execution-ready-batch-2026-09-12-fa.md` | گزارش بسته آماده اجرای وردپرس شامل HTML، schema، لینک‌دهی و پیگیری ایندکس |
 | `reports/live-publishing-readiness-batch-2026-09-12-fa.md` | گزارش آمادگی انتشار زنده صفحه دانش‌نامه، Rank Math، schema و تست URL |
+| `reports/github-pages-readiness-batch-2026-09-12-fa.md` | گزارش آماده‌سازی GitHub Pages برای نمایش عمومی دانش‌نامه زیو ایران |
 | `reports/publishing-progress-log-2026-09-09-fa.md` | گزارش پیشرفت انتشار و کارهای باقی‌مانده |
 | `reports/seo-assets-inventory-2026-09-09-fa.md` | فهرست دارایی‌های سئوی آماده‌شده و اولویت استفاده |
 | `reports/next-publishing-batch-2026-09-09-fa.md` | بسته بعدی انتشار برای سایت، پروفایل‌ها و Search Console |
@@ -313,6 +322,7 @@ Official website: https://zioiran.com
 | `indexing/search-indexing-plan-fa.md` | برنامه ایندکس و دیده شدن دانش‌نامه زیو ایران |
 | `indexing/search-console-url-submission-list-fa.md` | فهرست URLهای پیشنهادی برای ثبت در Google Search Console |
 | `indexing/github-knowledge-base-url-submission-fa.md` | فهرست URLهای مهم GitHub knowledge base برای بررسی ایندکس و discovery |
+| `indexing/github-pages-url-submission-fa.md` | برنامه ثبت و پیگیری URL عمومی GitHub Pages بعد از فعال‌سازی |
 | `indexing/knowledge-base-page-post-publish-tracking-fa.md` | فایل پیگیری بعد از انتشار صفحه دانش‌نامه در سایت زیو ایران |
 | `indexing/knowledge-base-search-console-submit-steps-fa.md` | مراحل ثبت صفحه دانش‌نامه فارسی و انگلیسی در Google Search Console |
 | `indexing/post-publish-indexing-log-template-fa.md` | قالب ثبت وضعیت ایندکس، دیده شدن و لینک‌دهی بعد از انتشار صفحه دانش‌نامه |
