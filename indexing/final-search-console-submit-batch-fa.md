@@ -14,8 +14,19 @@
 
 | اولویت | URL | اقدام |
 |---|---|---|
-| 1 | https://zioiran.com/curtain-blinds-knowledge-base/ | URL Inspection و Request indexing |
+| 1 | https://zioiran.com/curtain-blinds-knowledge-base/ | انجام شد: URL Inspection و Request indexing |
 | 2 | https://zioiran.com/modern-blinds-knowledge-base/ | فقط پس از فعال شدن بخش انگلیسی |
+
+## نتیجه اجرای زنده - 2026-09-13
+
+| مورد | نتیجه |
+|---|---|
+| URL اصلی فارسی | `https://zioiran.com/curtain-blinds-knowledge-base/` زنده است و عنوان دانش‌نامه پرده‌های مدرن زیو ایران را نمایش می‌دهد. |
+| درخواست indexing | برای URL اصلی در Google Search Console ثبت شد؛ پیام `Indexing requested` دریافت شد. |
+| sitemap اصلی | `https://zioiran.com/sitemap_index.xml` در Search Console با وضعیت `Success` دیده شد. |
+| sitemap صفحات | `https://zioiran.com/page-sitemap.xml` با HTTP 200 و `text/xml` پاسخ می‌دهد و URL اصلی را شامل می‌شود. |
+| صفحه تکراری | `https://zioiran.com/curtain-blinds-knowledge-base-2/` هم زنده و داخل `page-sitemap.xml` است؛ حذف، draft کردن یا redirect آن نیازمند تایید جداگانه است. |
+| GitHub Pages در Search Console | در حساب فعلی Search Console property جدا برای `maagah49-gif.github.io` دیده نشد؛ submit مستقیم URLهای GitHub Pages نیازمند افزودن property جدید است. |
 
 ## ثبت نتیجه
 

@@ -17,11 +17,12 @@
 
 ## مواردی که نیازمند ورود بیرونی هستند
 
-- انتشار صفحه فارسی در WordPress روی `zioiran.com`.
-- ثبت URLها در Google Search Console.
-- submit دوباره sitemap در Search Console.
+- انتشار صفحه فارسی در WordPress روی `zioiran.com`: انجام شد. URL اصلی موجود و زنده است: `https://zioiran.com/curtain-blinds-knowledge-base/`.
+- ثبت URL اصلی در Google Search Console: انجام شد و برای URL اصلی درخواست indexing ثبت شد.
+- submit دوباره sitemap در Search Console: انجام شد. `https://zioiran.com/sitemap_index.xml` در Search Console با وضعیت `Success` دیده شد.
+- پاکسازی نسخه تکراری وردپرس: نیازمند تایید نهایی مالک سایت است. نسخه تکراری `https://zioiran.com/curtain-blinds-knowledge-base-2/` زنده و داخل `page-sitemap.xml` است.
 - ساخت آیتم برند در Wikidata فقط بعد از جمع شدن منابع مستقل.
 
 ## جمع‌بندی
 
-از سمت repository، GitHub Pages، فایل‌های discovery، متن‌های وردپرس، schema، QA، نقشه URL و بسته انتشار بیرونی، کارهای مانده آماده اجرا شده‌اند. بخش‌هایی که باقی می‌مانند به ورود به پنل‌های بیرونی یا داشتن منبع مستقل وابسته‌اند.
+از سمت repository، GitHub Pages، فایل‌های discovery، متن‌های وردپرس، schema، QA، نقشه URL، بسته انتشار بیرونی، انتشار وردپرس و submit در Search Console، کارهای اصلی اجرا شده‌اند. تنها ریسک فوری، وجود صفحه تکراری `-2` است که برای جلوگیری از رقابت داخلی و محتوای تکراری باید پس از تایید مالک سایت به زباله‌دان منتقل شود یا به URL اصلی redirect/canonical شود.
