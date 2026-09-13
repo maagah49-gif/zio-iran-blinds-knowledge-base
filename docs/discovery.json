@@ -8,7 +8,8 @@
   "repository": "https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base",
   "publicPages": {
     "home": "https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/",
-    "supplementalAssets": "https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/supplemental-assets.html"
+    "supplementalAssets": "https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/supplemental-assets.html",
+    "externalPublicationKit": "https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/external-publication-kit.html"
   },
   "machineReadable": {
     "metadata": "https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/metadata.json",
