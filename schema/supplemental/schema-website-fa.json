@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "زیو ایران",
+  "alternateName": "Zio Iran",
+  "url": "https://zioiran.com",
+  "inLanguage": "fa-IR",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://zioiran.com/?s={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+
