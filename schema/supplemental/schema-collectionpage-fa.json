@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "دانش‌نامه پرده‌های مدرن زیو ایران",
+  "inLanguage": "fa-IR",
+  "url": "https://zioiran.com/curtain-blinds-knowledge-base/",
+  "about": [
+    "پرده زبرا",
+    "پرده شید",
+    "پرده بلک‌اوت",
+    "پرده پلیسان",
+    "پرده برقی"
+  ],
+  "publisher": {
+    "@type": "Organization",
+    "name": "Zio Iran",
+    "url": "https://zioiran.com"
+  }
+}
+

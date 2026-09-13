@@ -326,6 +326,20 @@ Official website: https://zioiran.com
 | `reports/day-2-site-implementation-plan-fa.md` | برنامه اجرای روز دوم برای انتقال صفحات، FAQ و Search Console |
 | `reports/project-changelog-2026-09-09-fa.md` | گزارش تغییرات انجام‌شده در پروژه |
 | `reports/repository-final-audit-2026-09-09-fa.md` | گزارش بازبینی وضعیت فعلی مخزن و شکاف‌های باقی‌مانده |
+| `reports/generated-supplemental-integration-2026-09-13-fa.md` | گزارش ادغام امن خروجی‌های مکمل 2026-09-13 با ساختار GitHub |
+
+## Supplemental 2026-09-13 Assets
+
+| Directory | Content |
+| --- | --- |
+| `articles/supplemental-fa/` | مقاله‌های فارسی مکمل برای زبرا، شید، بلک‌اوت، پلیسان، چاپی، سیلوئت، رومن، ورتیکال، شب‌وروز و دومکانیزم |
+| `articles/supplemental-en/` | مقاله‌های انگلیسی مکمل برای محصولات اصلی پرده‌های مدرن |
+| `faq/supplemental/` | FAQهای تخصصی فارسی برای زبرا، شید، بلک‌اوت و پرده برقی |
+| `schema/supplemental/` | نمونه‌های JSON-LD مکمل برای Article، FAQ، Breadcrumb، CollectionPage و WebSite |
+| `wordpress-ready/supplemental/` | بلوک‌های HTML آماده استفاده در وردپرس |
+| `metadata/supplemental/` | بانک متا و alt text دوزبانه |
+| `publishing/supplemental/` | صف انتشار، لینک‌دهی داخلی و متن درخواست منبع مستقل |
+| `wikipedia-wikidata/supplemental/` | متن بی‌طرف و قالب امن Wikidata برای استفاده پس از تأمین منبع مستقل |
 
 ## Indexing and Project Tracking
 

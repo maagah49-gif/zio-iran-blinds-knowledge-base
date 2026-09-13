@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "پرده زبرا چیست؟",
+  "inLanguage": "fa-IR",
+  "about": [
+    "پرده زبرا",
+    "zebra blinds",
+    "window coverings"
+  ],
+  "publisher": {
+    "@type": "Organization",
+    "name": "Zio Iran",
+    "url": "https://zioiran.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://zioiran.com/curtain-blinds-knowledge-base/"
+  }
+}
+
