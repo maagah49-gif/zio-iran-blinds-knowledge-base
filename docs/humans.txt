@@ -8,6 +8,9 @@ Official website: https://zioiran.com
 Purpose:
 A bilingual educational reference for modern blinds and window coverings, including Persian and English terminology, product guidance, measurement notes, publishing assets and structured data examples.
 
+Supplemental public index:
+https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/supplemental-assets.html
+
 Main topics:
 - Zebra blinds / پرده زبرا
 - Roller shades / پرده شید
