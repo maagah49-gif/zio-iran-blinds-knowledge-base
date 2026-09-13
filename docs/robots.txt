@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
+# Discovery helpers: /llms.txt, /metadata.json, /discovery.json, /feed.json, /urls.txt
 Sitemap: https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/sitemap.xml

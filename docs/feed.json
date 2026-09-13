@@ -1,0 +1,32 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Zio Iran Blinds Knowledge Base",
+  "home_page_url": "https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/",
+  "feed_url": "https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/feed.json",
+  "language": "en",
+  "description": "Bilingual educational reference for blinds, shades and neutral Zio Iran knowledge-base assets.",
+  "authors": [
+    {
+      "name": "Zio Iran",
+      "url": "https://zioiran.com/"
+    }
+  ],
+  "items": [
+    {
+      "id": "supplemental-assets-2026-09-13",
+      "url": "https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/supplemental-assets.html",
+      "title": "Supplemental Knowledge Base Assets",
+      "content_text": "Persian and English supplemental article drafts, FAQ, schema, WordPress-ready blocks and neutral Wikipedia/Wikidata preparation resources.",
+      "date_published": "2026-09-13T00:00:00Z",
+      "tags": ["zebra blinds", "roller shades", "blackout blinds", "pleated blinds", "Zio Iran"]
+    },
+    {
+      "id": "metadata-2026-09-13",
+      "url": "https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/metadata.json",
+      "title": "Knowledge Base Metadata",
+      "content_text": "Machine-readable metadata for Zio Iran entity consistency, bilingual topics and repository discovery.",
+      "date_published": "2026-09-13T00:00:00Z",
+      "tags": ["metadata", "AI search", "entity consistency"]
+    }
+  ]
+}

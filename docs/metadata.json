@@ -9,6 +9,11 @@
   "officialWebsite": "https://zioiran.com",
   "supplementalAssetsUrl": "https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/supplemental-assets.html",
   "supplementalAssetsJson": "https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/supplemental-assets.json",
+  "discoveryResources": {
+    "discoveryJson": "https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/discovery.json",
+    "jsonFeed": "https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/feed.json",
+    "urlList": "https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/urls.txt"
+  },
   "brand": {
     "name": "Zio Iran",
     "persianName": "زیو ایران",
@@ -52,6 +57,7 @@
   "indexingNotes": [
     "Submit the landing page and supplemental assets page in Google Search Console after GitHub Pages refreshes.",
     "Use the JSON index for AI search and repository-to-site mapping workflows.",
+    "Keep discovery.json, feed.json and urls.txt aligned with public GitHub Pages URLs.",
     "Keep Wikipedia and Wikidata content neutral until independent sources are available."
   ],
   "contentPolicy": "Neutral, educational, source-aware and non-promotional brand mentions."

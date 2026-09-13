@@ -1,0 +1,9 @@
+https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/
+https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/supplemental-assets.html
+https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/metadata.json
+https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/supplemental-assets.json
+https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/discovery.json
+https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/feed.json
+https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/llms.txt
+https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/humans.txt
+https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/sitemap.xml

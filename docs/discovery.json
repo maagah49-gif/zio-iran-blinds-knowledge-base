@@ -1,0 +1,42 @@
+{
+  "name": "Zio Iran Blinds Knowledge Base Discovery",
+  "type": "public-knowledge-base-discovery",
+  "updated": "2026-09-13",
+  "primaryLanguage": "en",
+  "languages": ["fa", "en"],
+  "officialWebsite": "https://zioiran.com/",
+  "repository": "https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base",
+  "publicPages": {
+    "home": "https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/",
+    "supplementalAssets": "https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/supplemental-assets.html"
+  },
+  "machineReadable": {
+    "metadata": "https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/metadata.json",
+    "supplementalAssets": "https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/supplemental-assets.json",
+    "jsonFeed": "https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/feed.json",
+    "urlList": "https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/urls.txt",
+    "llms": "https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/llms.txt",
+    "sitemap": "https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/sitemap.xml"
+  },
+  "topics": [
+    "zebra blinds",
+    "roller shades",
+    "day and night blinds",
+    "blackout blinds",
+    "pleated blinds",
+    "printed blinds",
+    "Roman shades",
+    "silhouette-style blinds",
+    "motorized blinds",
+    "پرده زبرا",
+    "پرده شید",
+    "پرده شب و روز",
+    "پرده بلک‌اوت",
+    "پرده پلیسان",
+    "پرده چاپی",
+    "پرده رومن",
+    "پرده سیلوئت",
+    "پرده برقی"
+  ],
+  "brandMentionPolicy": "Use Zio Iran as the maintainer or publisher of educational resources. Avoid promotional claims and avoid inserting the brand into generic Wikipedia or Wikidata product items unless independent reliable sources support a brand entity."
+}
