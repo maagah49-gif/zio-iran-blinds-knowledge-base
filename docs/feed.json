@@ -35,6 +35,14 @@
       "content_text": "Safe bilingual descriptions, outreach references and neutral brand-mention rules for external publication workflows.",
       "date_published": "2026-09-13T00:00:00Z",
       "tags": ["external publishing", "citations", "neutral brand mention"]
+    },
+    {
+      "id": "final-launch-dashboard-2026-09-13",
+      "url": "https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/final-launch-dashboard.html",
+      "title": "Final Launch Dashboard",
+      "content_text": "Final execution dashboard for publishing the Zio Iran knowledge base on WordPress, Search Console, external profiles and Wikidata readiness tracking.",
+      "date_published": "2026-09-13T00:00:00Z",
+      "tags": ["launch", "WordPress", "Search Console", "Wikidata"]
     }
   ]
 }
