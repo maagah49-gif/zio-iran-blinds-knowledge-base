@@ -7,6 +7,7 @@
   "url": "https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/",
   "repository": "https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base",
   "officialWebsite": "https://zioiran.com",
+  "supplementalAssetsUrl": "https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/supplemental-assets.html",
   "brand": {
     "name": "Zio Iran",
     "persianName": "زیو ایران",
@@ -36,6 +37,16 @@
     "پرده رومن",
     "پرده ورتیکال",
     "پرده برقی"
+  ],
+  "supplementalSections": [
+    "articles/supplemental-fa",
+    "articles/supplemental-en",
+    "faq/supplemental",
+    "schema/supplemental",
+    "wordpress-ready/supplemental",
+    "metadata/supplemental",
+    "publishing/supplemental",
+    "wikipedia-wikidata/supplemental"
   ],
   "contentPolicy": "Neutral, educational, source-aware and non-promotional brand mentions."
 }
