@@ -8,6 +8,7 @@
   "repository": "https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base",
   "officialWebsite": "https://zioiran.com",
   "supplementalAssetsUrl": "https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/supplemental-assets.html",
+  "supplementalAssetsJson": "https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/supplemental-assets.json",
   "brand": {
     "name": "Zio Iran",
     "persianName": "زیو ایران",
@@ -47,6 +48,11 @@
     "metadata/supplemental",
     "publishing/supplemental",
     "wikipedia-wikidata/supplemental"
+  ],
+  "indexingNotes": [
+    "Submit the landing page and supplemental assets page in Google Search Console after GitHub Pages refreshes.",
+    "Use the JSON index for AI search and repository-to-site mapping workflows.",
+    "Keep Wikipedia and Wikidata content neutral until independent sources are available."
   ],
   "contentPolicy": "Neutral, educational, source-aware and non-promotional brand mentions."
 }

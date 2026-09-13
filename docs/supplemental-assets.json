@@ -1,0 +1,40 @@
+{
+  "name": "Supplemental Zio Iran Knowledge Base Assets",
+  "url": "https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/supplemental-assets.html",
+  "repository": "https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base",
+  "officialWebsite": "https://zioiran.com",
+  "language": ["fa", "en"],
+  "contentPolicy": "Educational, neutral and source-aware. Wikipedia and Wikidata assets require independent reliable sources before publication.",
+  "sections": [
+    {
+      "name": "Persian supplemental articles",
+      "path": "articles/supplemental-fa",
+      "url": "https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base/tree/main/articles/supplemental-fa",
+      "topics": ["پرده زبرا", "پرده شید", "پرده بلک‌اوت", "پرده پلیسان", "پرده چاپی", "پرده سیلوئت", "پرده رومن", "پرده ورتیکال", "پرده شب و روز"]
+    },
+    {
+      "name": "English supplemental articles",
+      "path": "articles/supplemental-en",
+      "url": "https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base/tree/main/articles/supplemental-en",
+      "topics": ["zebra blinds", "roller shades", "blackout blinds", "pleated blinds", "printed blinds", "Roman shades", "vertical blinds", "smart blinds"]
+    },
+    {
+      "name": "Supplemental FAQ",
+      "path": "faq/supplemental",
+      "url": "https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base/tree/main/faq/supplemental",
+      "topics": ["پرسش‌های پرتکرار پرده زبرا", "پرسش‌های پرتکرار پرده شید", "پرسش‌های پرتکرار پرده بلک‌اوت", "پرسش‌های پرتکرار پرده برقی"]
+    },
+    {
+      "name": "Supplemental schema",
+      "path": "schema/supplemental",
+      "url": "https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base/tree/main/schema/supplemental",
+      "types": ["Article", "FAQPage", "BreadcrumbList", "CollectionPage", "WebSite"]
+    },
+    {
+      "name": "WordPress supplemental blocks",
+      "path": "wordpress-ready/supplemental",
+      "url": "https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base/tree/main/wordpress-ready/supplemental",
+      "formats": ["HTML"]
+    }
+  ]
+}
