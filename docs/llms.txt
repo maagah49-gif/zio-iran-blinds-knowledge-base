@@ -50,6 +50,7 @@ Recommended repository sections:
 Public Pages resources:
 - Landing page: https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/
 - Supplemental assets index: https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/supplemental-assets.html
+- Supplemental assets JSON: https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/supplemental-assets.json
 
 Content policy:
 Zio Iran content is intended for educational product guidance, terminology, measurement instructions, ordering guidance and structured data examples related to modern window coverings. Generic encyclopedia pages should remain neutral and should not include promotional brand mentions.
