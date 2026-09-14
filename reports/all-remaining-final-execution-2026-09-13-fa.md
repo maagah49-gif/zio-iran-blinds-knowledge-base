@@ -20,9 +20,9 @@
 - انتشار صفحه فارسی در WordPress روی `zioiran.com`: انجام شد. URL اصلی موجود و زنده است: `https://zioiran.com/curtain-blinds-knowledge-base/`.
 - ثبت URL اصلی در Google Search Console: انجام شد و برای URL اصلی درخواست indexing ثبت شد.
 - submit دوباره sitemap در Search Console: انجام شد. `https://zioiran.com/sitemap_index.xml` در Search Console با وضعیت `Success` دیده شد.
-- پاکسازی نسخه تکراری وردپرس: نیازمند تایید نهایی مالک سایت است. نسخه تکراری `https://zioiran.com/curtain-blinds-knowledge-base-2/` زنده و داخل `page-sitemap.xml` است.
+- پاکسازی نسخه تکراری وردپرس: انجام شد. نسخه تکراری `https://zioiran.com/curtain-blinds-knowledge-base-2/` به زباله‌دان منتقل شد، در تست عمومی `HTTP 404` داد و از `page-sitemap.xml` حذف شد.
 - ساخت آیتم برند در Wikidata فقط بعد از جمع شدن منابع مستقل.
 
 ## جمع‌بندی
 
-از سمت repository، GitHub Pages، فایل‌های discovery، متن‌های وردپرس، schema، QA، نقشه URL، بسته انتشار بیرونی، انتشار وردپرس و submit در Search Console، کارهای اصلی اجرا شده‌اند. تنها ریسک فوری، وجود صفحه تکراری `-2` است که برای جلوگیری از رقابت داخلی و محتوای تکراری باید پس از تایید مالک سایت به زباله‌دان منتقل شود یا به URL اصلی redirect/canonical شود.
+از سمت repository، GitHub Pages، فایل‌های discovery، متن‌های وردپرس، schema، QA، نقشه URL، بسته انتشار بیرونی، انتشار وردپرس، submit در Search Console و پاکسازی صفحه تکراری، کارهای اصلی اجرا شده‌اند. ریسک فوری محتوای تکراری برای صفحه دانش‌نامه فارسی برطرف شد.

@@ -25,7 +25,7 @@
 | درخواست indexing | برای URL اصلی در Google Search Console ثبت شد؛ پیام `Indexing requested` دریافت شد. |
 | sitemap اصلی | `https://zioiran.com/sitemap_index.xml` در Search Console با وضعیت `Success` دیده شد. |
 | sitemap صفحات | `https://zioiran.com/page-sitemap.xml` با HTTP 200 و `text/xml` پاسخ می‌دهد و URL اصلی را شامل می‌شود. |
-| صفحه تکراری | `https://zioiran.com/curtain-blinds-knowledge-base-2/` هم زنده و داخل `page-sitemap.xml` است؛ حذف، draft کردن یا redirect آن نیازمند تایید جداگانه است. |
+| صفحه تکراری | پس از تایید مالک سایت، `https://zioiran.com/curtain-blinds-knowledge-base-2/` به زباله‌دان منتقل شد؛ تست عمومی آن `HTTP 404` داد و دیگر در `page-sitemap.xml` دیده نشد. |
 | GitHub Pages در Search Console | در حساب فعلی Search Console property جدا برای `maagah49-gif.github.io` دیده نشد؛ submit مستقیم URLهای GitHub Pages نیازمند افزودن property جدید است. |
 
 ## ثبت نتیجه
