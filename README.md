@@ -29,8 +29,11 @@ Official website: https://zioiran.com
 | `wikipedia-wikidata/wikidata-keyword-expansion-batch-2026-09-21-fa-en.md` | بسته توسعه کلیدواژه‌های ویکی‌دیتا برای پرده‌ها |
 | `wikipedia-wikidata/wikidata-qid-verification-queue-2026-09-21-fa-en.md` | صف بررسی QID برای اصطلاحات باقی‌مانده |
 | `wikipedia-wikidata/wikidata-manual-search-links-2026-09-21-fa-en.md` | لینک‌های جستجوی دستی Wikidata برای کلیدواژه‌ها |
+| `wikipedia-wikidata/wikidata-live-verification-results-2026-09-21-fa-en.md` | نتیجه جستجوی زنده QIDها و تفکیک آیتم‌های قطعی از مبهم |
+| `wikipedia-wikidata/wikidata-final-quickstatements-verified-2026-09-21.txt` | QuickStatements نهایی برای هفت آیتم عمومی تاییدشده |
 | `wikipedia-wikidata/wikimedia-commons-category-targets-2026-09-21-fa-en.md` | هدف‌های Wikimedia Commons برای مدیاهای آموزشی |
 | `wikipedia-wikidata/wikipedia-neutral-edit-candidates-2026-09-21-fa-en.md` | کاندیدهای ویرایش بی‌طرف ویکی‌پدیا |
+| `wikipedia-wikidata/wikipedia-ready-neutral-wikitext-2026-09-21-fa-en.md` | متن‌های آماده و بی‌طرف فارسی/انگلیسی برای ویکی‌پدیا |
 
 ## Governance
 
@@ -290,6 +293,9 @@ Official website: https://zioiran.com
 | `wikipedia-wikidata/wikidata-keyword-expansion-batch-2026-09-21-fa-en.md` | بسته مرحله دوم برای کلیدواژه‌های زبرا، شب‌وروز، بلک‌اوت، چاپی، سیلوئت، برقی و اصطلاحات مبهم |
 | `wikipedia-wikidata/wikidata-qid-verification-queue-2026-09-21-fa-en.md` | صف بررسی دستی QID برای کلیدواژه‌های مرحله دوم پیش از هر ویرایش Wikidata |
 | `wikipedia-wikidata/verified-qids-template-2026-09-21-fa-en.md` | قالب ثبت QIDهای تاییدشده و آماده‌سازی QuickStatements نهایی |
+| `wikipedia-wikidata/wikidata-live-verification-results-2026-09-21-fa-en.md` | نتیجه جستجوی زنده و تایید هفت QID قطعی |
+| `wikipedia-wikidata/wikidata-final-quickstatements-verified-2026-09-21.txt` | بسته نهایی QuickStatements برای آیتم‌های عمومی قطعی |
+| `wikipedia-wikidata/wikipedia-ready-neutral-wikitext-2026-09-21-fa-en.md` | متن‌های آماده و بی‌طرف برای ویرایش مقاله‌های عمومی Wikipedia |
 | `wikipedia-wikidata/source-requirements-for-zioiran-entity-fa.md` | نیازمندی منابع مستقل برای ساخت entity قابل دفاع زیو ایران |
 | `wikipedia-wikidata/independent-source-map-zioiran-fa.md` | نقشه منابع مستقل مورد نیاز برای ویکی، entity و Knowledge Graph |
 | `wikipedia-wikidata/independent-source-tracker-zioiran-fa.md` | ردیاب منابع مستقل آینده برای زیو ایران و ارزیابی قابلیت استفاده در ویکی |
