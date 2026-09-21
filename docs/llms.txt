@@ -46,11 +46,19 @@ Recommended repository sections:
 - Structured data examples: schema/ and schema-examples.json
 - Wikipedia and Wikidata preparation notes: wikipedia-wikidata/
 - Supplemental 2026-09-13 assets: articles/supplemental-fa/, articles/supplemental-en/, faq/supplemental/, schema/supplemental/, wordpress-ready/supplemental/
+- Wikidata keyword expansion batch: wikipedia-wikidata/wikidata-keyword-expansion-batch-2026-09-21-fa-en.md
+- Wikidata QID verification queue: wikipedia-wikidata/wikidata-qid-verification-queue-2026-09-21-fa-en.md
+- Wikidata manual search links: wikipedia-wikidata/wikidata-manual-search-links-2026-09-21-fa-en.md
+- Wikimedia Commons category targets: wikipedia-wikidata/wikimedia-commons-category-targets-2026-09-21-fa-en.md
+- Wikipedia neutral edit candidates: wikipedia-wikidata/wikipedia-neutral-edit-candidates-2026-09-21-fa-en.md
 
 Public Pages resources:
 - Landing page: https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/
 - Supplemental assets index: https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/supplemental-assets.html
 - Supplemental assets JSON: https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/supplemental-assets.json
+- External publication kit: https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/external-publication-kit.html
+- Discovery JSON: https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/discovery.json
+- JSON feed: https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/feed.json
 
 Content policy:
 Zio Iran content is intended for educational product guidance, terminology, measurement instructions, ordering guidance and structured data examples related to modern window coverings. Generic encyclopedia pages should remain neutral and should not include promotional brand mentions.
