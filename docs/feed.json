@@ -43,6 +43,30 @@
       "content_text": "Final execution dashboard for publishing the Zio Iran knowledge base on WordPress, Search Console, external profiles and Wikidata readiness tracking.",
       "date_published": "2026-09-13T00:00:00Z",
       "tags": ["launch", "WordPress", "Search Console", "Wikidata"]
+    },
+    {
+      "id": "wikidata-keyword-expansion-2026-09-21",
+      "url": "https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base/blob/main/wikipedia-wikidata/wikidata-keyword-expansion-batch-2026-09-21-fa-en.md",
+      "title": "Wikidata Keyword Expansion Batch",
+      "content_text": "Neutral Persian and English keyword expansion for blinds and shade terminology, including zebra, day and night, double roller, blackout, printed, silhouette-style, motorized and screen shade terms.",
+      "date_published": "2026-09-21T00:00:00Z",
+      "tags": ["Wikidata", "window coverings", "zebra blinds", "Persian labels", "English labels"]
+    },
+    {
+      "id": "wikidata-qid-verification-2026-09-21",
+      "url": "https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base/blob/main/wikipedia-wikidata/wikidata-qid-verification-queue-2026-09-21-fa-en.md",
+      "title": "Wikidata QID Verification Queue",
+      "content_text": "Manual verification queue and templates for matching Persian and English blind terminology to exact Wikidata QIDs without promotional brand insertion.",
+      "date_published": "2026-09-21T00:00:00Z",
+      "tags": ["Wikidata", "QID", "neutral editing", "Zio Iran knowledge base"]
+    },
+    {
+      "id": "wikimedia-commons-and-wikipedia-candidates-2026-09-21",
+      "url": "https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base/blob/main/wikipedia-wikidata/wikipedia-neutral-edit-candidates-2026-09-21-fa-en.md",
+      "title": "Wikimedia Commons and Wikipedia Neutral Candidates",
+      "content_text": "Safe Wikimedia Commons media-search targets and Wikipedia edit candidates for generic blinds and window covering topics.",
+      "date_published": "2026-09-21T00:00:00Z",
+      "tags": ["Wikipedia", "Wikimedia Commons", "neutral content", "window coverings"]
     }
   ]
 }
