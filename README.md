@@ -281,6 +281,8 @@ Official website: https://zioiran.com
 | --- | --- |
 | `wikipedia-wikidata/safe-labels-descriptions-fa-en.md` | برچسب‌ها و توضیح‌های امن فارسی/انگلیسی برای مفاهیم و برند |
 | `wikipedia-wikidata/wikidata-entity-preparation-fa-en.md` | بسته آماده‌سازی آیتم‌ها، label، description، aliases و claimهای امن ویکی‌دیتا |
+| `wikipedia-wikidata/wikidata-publication-batch-2026-09-14-fa-en.md` | بسته اجراشده برای تکمیل آیتم‌های عمومی قطعی در Wikidata |
+| `wikipedia-wikidata/wikidata-keyword-expansion-batch-2026-09-21-fa-en.md` | بسته مرحله دوم برای کلیدواژه‌های زبرا، شب‌وروز، بلک‌اوت، چاپی، سیلوئت، برقی و اصطلاحات مبهم |
 | `wikipedia-wikidata/source-requirements-for-zioiran-entity-fa.md` | نیازمندی منابع مستقل برای ساخت entity قابل دفاع زیو ایران |
 | `wikipedia-wikidata/independent-source-map-zioiran-fa.md` | نقشه منابع مستقل مورد نیاز برای ویکی، entity و Knowledge Graph |
 | `wikipedia-wikidata/independent-source-tracker-zioiran-fa.md` | ردیاب منابع مستقل آینده برای زیو ایران و ارزیابی قابلیت استفاده در ویکی |
@@ -299,6 +301,8 @@ Official website: https://zioiran.com
 | `reports/project-status-2026-09-09-fa.md` | گزارش وضعیت پروژه دانش‌نامه زیو ایران |
 | `reports/project-status-2026-09-10-fa.md` | گزارش وضعیت پروژه در تاریخ 2026-09-10 و اولویت اجرای سایت |
 | `reports/wiki-entity-implementation-batch-2026-09-10-fa.md` | گزارش مرحله اجرای ویکی، ویکی‌دیتا و Entity SEO زیو ایران |
+| `reports/wikidata-publication-attempt-2026-09-14-fa.md` | گزارش اجرای دستی و تایید آیتم‌های عمومی Wikidata |
+| `reports/wikidata-keyword-expansion-2026-09-21-fa.md` | گزارش مرحله دوم گسترش کلیدواژه‌های Wikidata و منابع دانش‌نامه‌ای |
 | `reports/external-publishing-batch-2026-09-10-fa.md` | گزارش بسته انتشار بیرونی و تقویت citationهای برند زیو ایران |
 | `reports/publication-targets-batch-2026-09-10-fa.md` | گزارش بسته هدف‌های انتشار بیرونی، تقویم citation و پیام‌های outreach |
 | `reports/github-metadata-batch-2026-09-10-fa.md` | گزارش بسته GitHub Metadata و تنظیمات پیشنهادی برای بهتر دیده شدن repository |
