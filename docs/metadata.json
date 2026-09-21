@@ -10,6 +10,15 @@
   "supplementalAssetsUrl": "https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/supplemental-assets.html",
   "externalPublicationKitUrl": "https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/external-publication-kit.html",
   "finalLaunchDashboardUrl": "https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/final-launch-dashboard.html",
+  "wikidataWorkflowResources": {
+    "keywordExpansionBatch": "https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base/blob/main/wikipedia-wikidata/wikidata-keyword-expansion-batch-2026-09-21-fa-en.md",
+    "qidVerificationQueue": "https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base/blob/main/wikipedia-wikidata/wikidata-qid-verification-queue-2026-09-21-fa-en.md",
+    "verifiedQidsTemplate": "https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base/blob/main/wikipedia-wikidata/verified-qids-template-2026-09-21-fa-en.md",
+    "manualSearchLinks": "https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base/blob/main/wikipedia-wikidata/wikidata-manual-search-links-2026-09-21-fa-en.md",
+    "commonsCategoryTargets": "https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base/blob/main/wikipedia-wikidata/wikimedia-commons-category-targets-2026-09-21-fa-en.md",
+    "wikipediaNeutralEditCandidates": "https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base/blob/main/wikipedia-wikidata/wikipedia-neutral-edit-candidates-2026-09-21-fa-en.md",
+    "executionReport": "https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base/blob/main/reports/wikidata-20-task-batch-2026-09-21-fa.md"
+  },
   "supplementalAssetsJson": "https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/supplemental-assets.json",
   "discoveryResources": {
     "discoveryJson": "https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/discovery.json",
