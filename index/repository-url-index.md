@@ -29,6 +29,10 @@ https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base
 | Internal linking plan | https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base/blob/main/zioiran-internal-linking-plan.md |
 | Content policy | https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base/blob/main/content-policy.md |
 | Wikipedia/Wikidata plan | https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base/blob/main/wikipedia-wikidata-targets.md |
+| Wikidata publication batch | https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base/blob/main/wikipedia-wikidata/wikidata-publication-batch-2026-09-14-fa-en.md |
+| Wikidata keyword expansion batch | https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base/blob/main/wikipedia-wikidata/wikidata-keyword-expansion-batch-2026-09-21-fa-en.md |
+| Wikidata publication report | https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base/blob/main/reports/wikidata-publication-attempt-2026-09-14-fa.md |
+| Wikidata keyword expansion report | https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base/blob/main/reports/wikidata-keyword-expansion-2026-09-21-fa.md |
 
 ## Articles
 
