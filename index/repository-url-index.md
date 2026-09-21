@@ -33,8 +33,12 @@ https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base
 | Wikidata keyword expansion batch | https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base/blob/main/wikipedia-wikidata/wikidata-keyword-expansion-batch-2026-09-21-fa-en.md |
 | Wikidata QID verification queue | https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base/blob/main/wikipedia-wikidata/wikidata-qid-verification-queue-2026-09-21-fa-en.md |
 | Verified QIDs template | https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base/blob/main/wikipedia-wikidata/verified-qids-template-2026-09-21-fa-en.md |
+| Wikidata manual search links | https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base/blob/main/wikipedia-wikidata/wikidata-manual-search-links-2026-09-21-fa-en.md |
+| Wikimedia Commons category targets | https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base/blob/main/wikipedia-wikidata/wikimedia-commons-category-targets-2026-09-21-fa-en.md |
+| Wikipedia neutral edit candidates | https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base/blob/main/wikipedia-wikidata/wikipedia-neutral-edit-candidates-2026-09-21-fa-en.md |
 | Wikidata publication report | https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base/blob/main/reports/wikidata-publication-attempt-2026-09-14-fa.md |
 | Wikidata keyword expansion report | https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base/blob/main/reports/wikidata-keyword-expansion-2026-09-21-fa.md |
+| Wikidata 20-task execution report | https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base/blob/main/reports/wikidata-20-task-batch-2026-09-21-fa.md |
 
 ## Articles
 
