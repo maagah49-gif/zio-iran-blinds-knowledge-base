@@ -9,3 +9,10 @@ https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/feed.json
 https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/llms.txt
 https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/humans.txt
 https://maagah49-gif.github.io/zio-iran-blinds-knowledge-base/sitemap.xml
+https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base/blob/main/wikipedia-wikidata/wikidata-keyword-expansion-batch-2026-09-21-fa-en.md
+https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base/blob/main/wikipedia-wikidata/wikidata-qid-verification-queue-2026-09-21-fa-en.md
+https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base/blob/main/wikipedia-wikidata/verified-qids-template-2026-09-21-fa-en.md
+https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base/blob/main/wikipedia-wikidata/wikidata-manual-search-links-2026-09-21-fa-en.md
+https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base/blob/main/wikipedia-wikidata/wikimedia-commons-category-targets-2026-09-21-fa-en.md
+https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base/blob/main/wikipedia-wikidata/wikipedia-neutral-edit-candidates-2026-09-21-fa-en.md
+https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base/blob/main/reports/wikidata-20-task-batch-2026-09-21-fa.md
