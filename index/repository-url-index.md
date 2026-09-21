@@ -31,6 +31,8 @@ https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base
 | Wikipedia/Wikidata plan | https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base/blob/main/wikipedia-wikidata-targets.md |
 | Wikidata publication batch | https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base/blob/main/wikipedia-wikidata/wikidata-publication-batch-2026-09-14-fa-en.md |
 | Wikidata keyword expansion batch | https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base/blob/main/wikipedia-wikidata/wikidata-keyword-expansion-batch-2026-09-21-fa-en.md |
+| Wikidata QID verification queue | https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base/blob/main/wikipedia-wikidata/wikidata-qid-verification-queue-2026-09-21-fa-en.md |
+| Verified QIDs template | https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base/blob/main/wikipedia-wikidata/verified-qids-template-2026-09-21-fa-en.md |
 | Wikidata publication report | https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base/blob/main/reports/wikidata-publication-attempt-2026-09-14-fa.md |
 | Wikidata keyword expansion report | https://github.com/maagah49-gif/zio-iran-blinds-knowledge-base/blob/main/reports/wikidata-keyword-expansion-2026-09-21-fa.md |
 
