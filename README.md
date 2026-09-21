@@ -283,6 +283,8 @@ Official website: https://zioiran.com
 | `wikipedia-wikidata/wikidata-entity-preparation-fa-en.md` | بسته آماده‌سازی آیتم‌ها، label، description، aliases و claimهای امن ویکی‌دیتا |
 | `wikipedia-wikidata/wikidata-publication-batch-2026-09-14-fa-en.md` | بسته اجراشده برای تکمیل آیتم‌های عمومی قطعی در Wikidata |
 | `wikipedia-wikidata/wikidata-keyword-expansion-batch-2026-09-21-fa-en.md` | بسته مرحله دوم برای کلیدواژه‌های زبرا، شب‌وروز، بلک‌اوت، چاپی، سیلوئت، برقی و اصطلاحات مبهم |
+| `wikipedia-wikidata/wikidata-qid-verification-queue-2026-09-21-fa-en.md` | صف بررسی دستی QID برای کلیدواژه‌های مرحله دوم پیش از هر ویرایش Wikidata |
+| `wikipedia-wikidata/verified-qids-template-2026-09-21-fa-en.md` | قالب ثبت QIDهای تاییدشده و آماده‌سازی QuickStatements نهایی |
 | `wikipedia-wikidata/source-requirements-for-zioiran-entity-fa.md` | نیازمندی منابع مستقل برای ساخت entity قابل دفاع زیو ایران |
 | `wikipedia-wikidata/independent-source-map-zioiran-fa.md` | نقشه منابع مستقل مورد نیاز برای ویکی، entity و Knowledge Graph |
 | `wikipedia-wikidata/independent-source-tracker-zioiran-fa.md` | ردیاب منابع مستقل آینده برای زیو ایران و ارزیابی قابلیت استفاده در ویکی |
