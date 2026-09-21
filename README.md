@@ -26,6 +26,11 @@ Official website: https://zioiran.com
 | `schema-examples.json` | Sample structured data for Organization, Product and FAQ |
 | `content-policy.md` | Safe content and brand mention policy |
 | `wikipedia-wikidata-targets.md` | Safe Wikipedia and Wikidata target plan |
+| `wikipedia-wikidata/wikidata-keyword-expansion-batch-2026-09-21-fa-en.md` | بسته توسعه کلیدواژه‌های ویکی‌دیتا برای پرده‌ها |
+| `wikipedia-wikidata/wikidata-qid-verification-queue-2026-09-21-fa-en.md` | صف بررسی QID برای اصطلاحات باقی‌مانده |
+| `wikipedia-wikidata/wikidata-manual-search-links-2026-09-21-fa-en.md` | لینک‌های جستجوی دستی Wikidata برای کلیدواژه‌ها |
+| `wikipedia-wikidata/wikimedia-commons-category-targets-2026-09-21-fa-en.md` | هدف‌های Wikimedia Commons برای مدیاهای آموزشی |
+| `wikipedia-wikidata/wikipedia-neutral-edit-candidates-2026-09-21-fa-en.md` | کاندیدهای ویرایش بی‌طرف ویکی‌پدیا |
 
 ## Governance
 
